@@ -1,0 +1,32 @@
+I"<p>We had a big team across UIUC, UW, and Tel Aviv University.</p>
+
+<p>Co-first authors:</p>
+<ul>
+  <li>Jose Rodrigo Sanchez Vicarte (UIUC)</li>
+  <li>Michael Flanders (UW)<br /><br /></li>
+  <li>Riccardo Paccagnella (UIUC)</li>
+  <li>Grant Garrett-Grossman (UIUC)</li>
+  <li>Adam Morrison (Tel Aviv)</li>
+  <li>Christopher W. Fletcher (UIUC)</li>
+  <li>David Kohlbrenner (UW)</li>
+</ul>
+
+<h1 id="citation">Citation</h1>
+<h2 id="bibtex">BibTeX</h2>
+<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">augury:2022:vicarte:oakland22</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Jose Rodrigo Sanchez Vicarte and Michael Flanders and
+          Riccardo Paccagnella and Grant Garrett-Grossman and
+          Adam Morrison and Christopher W. Fletcher and David Kohlbrenner }</span><span class="p">,</span>
+  <span class="na">booktitle</span><span class="p">=</span><span class="s">{2022 IEEE Symposium on Security and Privacy (SP)}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{1518--1518}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">organization</span><span class="p">=</span><span class="s">{IEEE Computer Society}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h2 id="plain-text">Plain Text</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>J. Sanchez Vicarte, et al., "Augury: Using data memory-dependent prefetchers to leak data at rest," in 2022 2022 IEEE Symposium on Security and Privacy (SP) (SP), San Francisco, CA, US, 2022 pp. 1518-1518.
+</code></pre></div></div>
+
+:ET
