@@ -8,7 +8,7 @@ date: May 2 2022
 We present a new type of microarchitectural attack that leaks data at
 rest: data that is never read into the core architecturally. This
 attack technique, Augury, leverages a novel microarchitectural
-optimzation present in Apple Silicon: a Data Memory-Dependent
+optimization present in Apple Silicon: a Data Memory-Dependent
 Prefetcher (DMP).
 
 At a high level:
