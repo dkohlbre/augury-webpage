@@ -62,7 +62,7 @@ Data at rest microarchitectural leakage is a type of attack where the
 targeted data is never read into the core speculatively or
 non-speculatively, and yet is leaked. We described the likely
 existence of these attacks in
-[Pandora](https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf). but
+[Pandora](https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf), but
 had not found any examples until now.
 
 These attacks are problematic because most defensive approaches in
