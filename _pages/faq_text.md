@@ -23,7 +23,8 @@ A Data Memory-Dependent Prefetcher (DMP) is a prefetcher that takes
 into account the content of memory when deciding what to prefetch. A
 conceptually simple (if tricky to implement) DMP is one that watches
 the stream of cache lines returned from the memory system, and
-attempts a prefetch on any 64-bit chunk that appears to be a pointer.
+attempts a prefetch on any 64-bit chunk that appears to form (or help in
+the formation of) a pointer.
 
 ## What DMP structure did you find?
 
@@ -38,6 +39,9 @@ for( i=0; i<len(arr); i++ ){
 
 Once it has seen `*arr[0]` ... `*arr[2]` occur (even speculatively!)
 it will begin prefetching `*arr[3]` onward.
+That is, it will first prefetch ahead the contents of `arr` and then
+_dereference_ those contents.  In contrast, a conventional prefetcher would not
+perform the second step/dereference operation.
 
 ## What makes Augury different from Spectre/MDS/etc?
 
@@ -62,8 +66,9 @@ Data at rest microarchitectural leakage is a type of attack where the
 targeted data is never read into the core speculatively or
 non-speculatively, and yet is leaked. We described the likely
 existence of these attacks in
-[Pandora](https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf), but
-had not found any examples until now.
+[Pandora](https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf)
+and [Safecracker](https://dl.acm.org/doi/abs/10.1145/3373376.3378453), but had
+not found any examples in the wild.
 
 These attacks are problematic because most defensive approaches in
 hardware or software for other microarchitectural attacks assume there
