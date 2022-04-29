@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Augury
+title:
 subtitle: Using Data Memory-Dependent Prefetchers to Leak Data at Rest
 date: May 2 2022
 ---
