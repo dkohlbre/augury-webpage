@@ -64,11 +64,11 @@ applicable and will not prevent Augury for leaking data.
 
 Data at rest microarchitectural leakage is a type of attack where the
 targeted data is never read into the core speculatively or
-non-speculatively, and yet is leaked. We described the likely
-existence of these attacks in
+non-speculatively, and yet is leaked. The likely existence of these attacks is
+described in
 [Pandora](https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf)
-and [Safecracker](https://dl.acm.org/doi/abs/10.1145/3373376.3378453), but had
-not found any examples in the wild.
+and [Safecracker](https://dl.acm.org/doi/abs/10.1145/3373376.3378453), but we
+had not found any examples in the wild.
 
 These attacks are problematic because most defensive approaches in
 hardware or software for other microarchitectural attacks assume there
