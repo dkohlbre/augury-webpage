@@ -1,39 +1,3 @@
-# Augury
-
-We present a new type of microarchitectural attack that leaks data at
-rest: data that is never read into the core architecturally. This
-attack technique, Augury, leverages a novel microarchitectural
-optimzation present in Apple Silicon: a Data Memory-Dependent
-Prefetcher (DMP).
-
-At a high level:
- - We found that Apple processors have a DMP
- - We found that this DMP prefetches an array-of-pointers dereferencing pattern
- - We found that you can use this prefetcher to leak data (pointers)
-   that are never read by any instruction, even speculatively!
-
-
-No logo, but please do use our fun name!
-
-[paper](https://prefetchers.info/augury.pdf)
-[cite](https://prefetchers.info/cite.txt)
-tools -- coming soon
-
-# Who found this?
-
-We had a big team across UIUC, UW, and Tel Aviv University.
-
-Co-first authors:
- - Jose Rodrigo Sanchez Vicarte (UIUC)
- - Michael Flanders (UW)
-
- - Riccardo Paccagnella (UIUC)
- - Grant Garrett-Grossman (UIUC)
- - Adam Morrison (Tel Aviv)
- - Christopher W. Fletcher (UIUC)
- - David Kohlbrenner (UW)
-
-# FAQ
 ## What processors are affected?
 
 Only Apple silicon processors are affected. We have confirmed the
@@ -66,7 +30,7 @@ attempts a prefetch on any 64-bit chunk that appears to be a pointer.
 In Apple Silicon we found an Array-of-Pointers (AoP) DMP. This
 prefetcher looks for access patterns of the following form:
 
-```
+```python
 for( i=0; i<len(arr); i++ ){
     *arr[i];
 }
@@ -124,7 +88,7 @@ article including the quote:
 
 ## Why "Augury"?
 
-"the work of an augur; the interpretation of omens."
+> "the work of an augur; the interpretation of omens."
 
 Augury is a neat word to say.
 

@@ -1,0 +1,37 @@
+I"â	<p>We had a big team across UIUC, UW, and Tel Aviv University.</p>
+
+<p>Co-first authors:</p>
+<ul>
+  <li>Jose Rodrigo Sanchez Vicarte (UIUC)</li>
+  <li>Michael Flanders (UW)<br /><br /></li>
+  <li>Riccardo Paccagnella (UIUC)</li>
+  <li>Grant Garrett-Grossman (UIUC)</li>
+  <li>Adam Morrison (Tel Aviv)</li>
+  <li>Christopher W. Fletcher (UIUC)</li>
+  <li>David Kohlbrenner (UW)</li>
+</ul>
+
+<h1 id="citation">Citation</h1>
+<h2 id="bibtex">BibTeX</h2>
+<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@INPROCEEDINGS</span> <span class="p">{</span><span class="err">,</span>
+<span class="nl">author</span> <span class="err">=</span> <span class="err">{J.</span> <span class="err">Sanchez</span> <span class="err">Vicarte</span> <span class="err">and</span> <span class="err">M.</span> <span class="err">Flanders</span> <span class="err">and</span> <span class="err">R.</span> <span class="err">Paccagnella</span> <span class="err">and</span> <span class="err">G.</span> <span class="err">Garrett-Grossman</span> <span class="err">and</span> <span class="err">A.</span> <span class="err">Morrison</span> <span class="err">and</span> <span class="err">C.</span> <span class="err">Fletcher</span> <span class="err">and</span> <span class="err">D.</span> <span class="err">Kohlbrenner</span><span class="p">}</span><span class="c">,</span>
+<span class="c">booktitle = {2022 2022 IEEE Symposium on Security and Privacy (SP) (SP)},</span>
+<span class="c">title = {Augury: Using data memory-dependent prefetchers to leak data at rest},</span>
+<span class="c">year = {2022},</span>
+<span class="c">volume = {},</span>
+<span class="c">issn = {2375-1207},</span>
+<span class="c">pages = {1518-1518},</span>
+<span class="c">keywords = {},</span>
+<span class="c">doi = {10.1109/SP46214.2022.00089},</span>
+<span class="c">url = {https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00089},</span>
+<span class="c">publisher = {IEEE Computer Society},</span>
+<span class="c">address = {Los Alamitos, CA, USA},</span>
+<span class="c">month = {may}</span>
+<span class="c">}</span>
+</code></pre></div></div>
+
+<h2 id="plain-text">Plain Text</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>J. Sanchez Vicarte, et al., "Augury: Using data memory-dependent prefetchers to leak data at rest," in 2022 2022 IEEE Symposium on Security and Privacy (SP) (SP), San Francisco, CA, US, 2022 pp. 1518-1518.
+</code></pre></div></div>
+
+:ET

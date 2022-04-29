@@ -1,0 +1,1307 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/josesanchezvicarte/projects/reverie/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+#Miscellaneous	_site/categories/index.html	/^    <div id="#Miscellaneous"><\/div>$/;"	I
+#bar	_site/assets/style.css	/^#bar {$/;"	i
+#carbonads	_site/assets/style.css	/^  #carbonads {$/;"	i
+#carbonads	_site/assets/style.css	/^#carbonads {$/;"	i
+#carbonads > span	_site/assets/style.css	/^  #carbonads > span {$/;"	s
+#carbonads a	_site/assets/style.css	/^#carbonads a {$/;"	s
+#carbonads a:hover	_site/assets/style.css	/^#carbonads a:hover {$/;"	s
+#carbonads span	_site/assets/style.css	/^  #carbonads span {$/;"	s
+#carbonads span	_site/assets/style.css	/^#carbonads span {$/;"	s
+#cd-timeline	_site/assets/style.css	/^  #cd-timeline {$/;"	i
+#cd-timeline	_site/assets/style.css	/^#cd-timeline {$/;"	i
+#cd-timeline::before	_site/assets/style.css	/^  #cd-timeline::before {$/;"	i
+#cd-timeline::before	_site/assets/style.css	/^#cd-timeline::before {$/;"	i
+#gh-latest	_site/assets/style.css	/^#gh-latest {$/;"	i
+#search-container	_site/assets/style.css	/^#search-container {$/;"	i
+#search-input	_site/assets/style.css	/^#search-input {$/;"	i
+*	_site/assets/style.css	/^*, *:before, *:after {$/;"	s
+*:after	_site/assets/style.css	/^*, *:before, *:after {$/;"	s
+*:before	_site/assets/style.css	/^*, *:before, *:after {$/;"	s
+.2	_sass/_button.scss	/^              -4px -4px 6px 0 rgba(116, 125, 136, .2),$/;"	c
+.2	_sass/_button.scss	/^    inset -4px -4px 6px 0 rgba(255,255,255,.2),$/;"	c
+.2	_sass/_button.scss	/^    inset 4px 4px 6px 0 rgba(0, 0, 0, .2);$/;"	c
+.2	assets/button.scss	/^              -4px -4px 6px 0 rgba(116, 125, 136, .2),$/;"	c
+.2	assets/button.scss	/^    inset -4px -4px 6px 0 rgba(255,255,255,.2),$/;"	c
+.2	assets/button.scss	/^    inset 4px 4px 6px 0 rgba(0, 0, 0, .2);$/;"	c
+.3	_sass/_button.scss	/^    inset 4px 4px 6px 0 rgba(116, 125, 136, .3);$/;"	c
+.3	assets/button.scss	/^    inset 4px 4px 6px 0 rgba(116, 125, 136, .3);$/;"	c
+.5	_sass/_button.scss	/^    inset -4px -4px 6px 0 rgba(255,255,255,.5),$/;"	c
+.5	assets/button.scss	/^    inset -4px -4px 6px 0 rgba(255,255,255,.5),$/;"	c
+.author_title	_site/assets/style.css	/^.author_title {$/;"	c
+.author_title	assets/style.scss	/^.author_title{$/;"	c
+.bounce-in	assets/style.scss	/^  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {$/;"	c
+.bounce-in	assets/style.scss	/^  .cssanimations .cd-timeline-content.bounce-in {$/;"	c
+.bounce-in	assets/style.scss	/^  .cssanimations .cd-timeline-img.bounce-in {$/;"	c
+.bp	_sass/_darcula.scss	/^.highlight .bp { color: #f8f8f2; font-style: italic } \/* Name.Builtin.Pseudo *\/$/;"	c
+.bp	_sass/_highlights.scss	/^.highlight .bp { color: #268BD2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.btn-1	_sass/_button.scss	/^.btn-1 {$/;"	c
+.btn-1	assets/button.scss	/^.btn-1 {$/;"	c
+.btn-10	_sass/_button.scss	/^.btn-10 {$/;"	c
+.btn-10	assets/button.scss	/^.btn-10 {$/;"	c
+.btn-10:after	_sass/_button.scss	/^.btn-10:after {$/;"	c
+.btn-10:after	assets/button.scss	/^.btn-10:after {$/;"	c
+.btn-10:hover	_sass/_button.scss	/^.btn-10:hover {$/;"	c
+.btn-10:hover	assets/button.scss	/^.btn-10:hover {$/;"	c
+.btn-10:hover:after	_sass/_button.scss	/^.btn-10:hover:after {$/;"	c
+.btn-10:hover:after	assets/button.scss	/^.btn-10:hover:after {$/;"	c
+.btn-11	_sass/_button.scss	/^.btn-11 {$/;"	c
+.btn-11	assets/button.scss	/^.btn-11 {$/;"	c
+.btn-11:active	_sass/_button.scss	/^.btn-11:active{$/;"	c
+.btn-11:active	assets/button.scss	/^.btn-11:active{$/;"	c
+.btn-11:before	_sass/_button.scss	/^.btn-11:before {$/;"	c
+.btn-11:before	assets/button.scss	/^.btn-11:before {$/;"	c
+.btn-11:hover	_sass/_button.scss	/^.btn-11:hover {$/;"	c
+.btn-11:hover	assets/button.scss	/^.btn-11:hover {$/;"	c
+.btn-12	_sass/_button.scss	/^.btn-12 span {$/;"	c
+.btn-12	_sass/_button.scss	/^.btn-12 span:nth-child(1) {$/;"	c
+.btn-12	_sass/_button.scss	/^.btn-12 span:nth-child(2) {$/;"	c
+.btn-12	_sass/_button.scss	/^.btn-12{$/;"	c
+.btn-12	assets/button.scss	/^.btn-12 span {$/;"	c
+.btn-12	assets/button.scss	/^.btn-12 span:nth-child(1) {$/;"	c
+.btn-12	assets/button.scss	/^.btn-12 span:nth-child(2) {$/;"	c
+.btn-12	assets/button.scss	/^.btn-12{$/;"	c
+.btn-12:hover	_sass/_button.scss	/^.btn-12:hover span:nth-child(1) {$/;"	c
+.btn-12:hover	_sass/_button.scss	/^.btn-12:hover span:nth-child(2) {$/;"	c
+.btn-12:hover	assets/button.scss	/^.btn-12:hover span:nth-child(1) {$/;"	c
+.btn-12:hover	assets/button.scss	/^.btn-12:hover span:nth-child(2) {$/;"	c
+.btn-13	_sass/_button.scss	/^.btn-13 {$/;"	c
+.btn-13	assets/button.scss	/^.btn-13 {$/;"	c
+.btn-13:active	_sass/_button.scss	/^.btn-13:active {$/;"	c
+.btn-13:active	assets/button.scss	/^.btn-13:active {$/;"	c
+.btn-13:after	_sass/_button.scss	/^.btn-13:after {$/;"	c
+.btn-13:after	assets/button.scss	/^.btn-13:after {$/;"	c
+.btn-13:hover	_sass/_button.scss	/^.btn-13:hover {$/;"	c
+.btn-13:hover	assets/button.scss	/^.btn-13:hover {$/;"	c
+.btn-13:hover:after	_sass/_button.scss	/^.btn-13:hover:after {$/;"	c
+.btn-13:hover:after	assets/button.scss	/^.btn-13:hover:after {$/;"	c
+.btn-14	_sass/_button.scss	/^.btn-14 {$/;"	c
+.btn-14	assets/button.scss	/^.btn-14 {$/;"	c
+.btn-14:active	_sass/_button.scss	/^.btn-14:active {$/;"	c
+.btn-14:active	assets/button.scss	/^.btn-14:active {$/;"	c
+.btn-14:after	_sass/_button.scss	/^.btn-14:after {$/;"	c
+.btn-14:after	assets/button.scss	/^.btn-14:after {$/;"	c
+.btn-14:hover	_sass/_button.scss	/^.btn-14:hover {$/;"	c
+.btn-14:hover	assets/button.scss	/^.btn-14:hover {$/;"	c
+.btn-14:hover:after	_sass/_button.scss	/^.btn-14:hover:after {$/;"	c
+.btn-14:hover:after	assets/button.scss	/^.btn-14:hover:after {$/;"	c
+.btn-15	_sass/_button.scss	/^.btn-15 {$/;"	c
+.btn-15	assets/button.scss	/^.btn-15 {$/;"	c
+.btn-15:active	_sass/_button.scss	/^.btn-15:active {$/;"	c
+.btn-15:active	assets/button.scss	/^.btn-15:active {$/;"	c
+.btn-15:after	_sass/_button.scss	/^.btn-15:after {$/;"	c
+.btn-15:after	assets/button.scss	/^.btn-15:after {$/;"	c
+.btn-15:hover	_sass/_button.scss	/^.btn-15:hover {$/;"	c
+.btn-15:hover	assets/button.scss	/^.btn-15:hover {$/;"	c
+.btn-15:hover:after	_sass/_button.scss	/^.btn-15:hover:after {$/;"	c
+.btn-15:hover:after	assets/button.scss	/^.btn-15:hover:after {$/;"	c
+.btn-16	_sass/_button.scss	/^.btn-16 {$/;"	c
+.btn-16	assets/button.scss	/^.btn-16 {$/;"	c
+.btn-16:active	_sass/_button.scss	/^.btn-16:active {$/;"	c
+.btn-16:active	assets/button.scss	/^.btn-16:active {$/;"	c
+.btn-16:after	_sass/_button.scss	/^.btn-16:after {$/;"	c
+.btn-16:after	assets/button.scss	/^.btn-16:after {$/;"	c
+.btn-16:hover	_sass/_button.scss	/^.btn-16:hover {$/;"	c
+.btn-16:hover	assets/button.scss	/^.btn-16:hover {$/;"	c
+.btn-16:hover:after	_sass/_button.scss	/^.btn-16:hover:after {$/;"	c
+.btn-16:hover:after	assets/button.scss	/^.btn-16:hover:after {$/;"	c
+.btn-1:hover	_sass/_button.scss	/^.btn-1:hover {$/;"	c
+.btn-1:hover	assets/button.scss	/^.btn-1:hover {$/;"	c
+.btn-2	_sass/_button.scss	/^.btn-2 {$/;"	c
+.btn-2	assets/button.scss	/^.btn-2 {$/;"	c
+.btn-2:after	_sass/_button.scss	/^.btn-2:after {$/;"	c
+.btn-2:after	assets/button.scss	/^.btn-2:after {$/;"	c
+.btn-2:hover:after	_sass/_button.scss	/^.btn-2:hover:after {$/;"	c
+.btn-2:hover:after	assets/button.scss	/^.btn-2:hover:after {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span:after {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span:before {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span:before,$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span:hover:after {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 span:hover:before {$/;"	c
+.btn-3	_sass/_button.scss	/^.btn-3 {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span:after {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span:before {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span:before,$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span:hover:after {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 span:hover:before {$/;"	c
+.btn-3	assets/button.scss	/^.btn-3 {$/;"	c
+.btn-3:after	_sass/_button.scss	/^.btn-3:after {$/;"	c
+.btn-3:after	assets/button.scss	/^.btn-3:after {$/;"	c
+.btn-3:before	_sass/_button.scss	/^.btn-3:before {$/;"	c
+.btn-3:before	_sass/_button.scss	/^.btn-3:before,$/;"	c
+.btn-3:before	assets/button.scss	/^.btn-3:before {$/;"	c
+.btn-3:before	assets/button.scss	/^.btn-3:before,$/;"	c
+.btn-3:hover	_sass/_button.scss	/^.btn-3:hover{$/;"	c
+.btn-3:hover	assets/button.scss	/^.btn-3:hover{$/;"	c
+.btn-3:hover:after	_sass/_button.scss	/^.btn-3:hover:after {$/;"	c
+.btn-3:hover:after	assets/button.scss	/^.btn-3:hover:after {$/;"	c
+.btn-3:hover:before	_sass/_button.scss	/^.btn-3:hover:before {$/;"	c
+.btn-3:hover:before	assets/button.scss	/^.btn-3:hover:before {$/;"	c
+.btn-4	_sass/_button.scss	/^.btn-4 {$/;"	c
+.btn-4	assets/button.scss	/^.btn-4 {$/;"	c
+.btn-4:after	_sass/_button.scss	/^.btn-4:after {$/;"	c
+.btn-4:after	_sass/_button.scss	/^.btn-4:after{$/;"	c
+.btn-4:after	assets/button.scss	/^.btn-4:after {$/;"	c
+.btn-4:after	assets/button.scss	/^.btn-4:after{$/;"	c
+.btn-4:before	_sass/_button.scss	/^.btn-4:before {$/;"	c
+.btn-4:before	_sass/_button.scss	/^.btn-4:before,$/;"	c
+.btn-4:before	assets/button.scss	/^.btn-4:before {$/;"	c
+.btn-4:before	assets/button.scss	/^.btn-4:before,$/;"	c
+.btn-4:hover	_sass/_button.scss	/^.btn-4:hover{$/;"	c
+.btn-4:hover	assets/button.scss	/^.btn-4:hover{$/;"	c
+.btn-4:hover:after	_sass/_button.scss	/^.btn-4:hover:after {$/;"	c
+.btn-4:hover:after	assets/button.scss	/^.btn-4:hover:after {$/;"	c
+.btn-4:hover:before	_sass/_button.scss	/^.btn-4:hover:before,$/;"	c
+.btn-4:hover:before	assets/button.scss	/^.btn-4:hover:before,$/;"	c
+.btn-5	_sass/_button.scss	/^.btn-5 {$/;"	c
+.btn-5	assets/button.scss	/^.btn-5 {$/;"	c
+.btn-5:after	_sass/_button.scss	/^.btn-5:after{$/;"	c
+.btn-5:after	assets/button.scss	/^.btn-5:after{$/;"	c
+.btn-5:before	_sass/_button.scss	/^.btn-5:before,$/;"	c
+.btn-5:before	assets/button.scss	/^.btn-5:before,$/;"	c
+.btn-5:hover	_sass/_button.scss	/^.btn-5:hover {$/;"	c
+.btn-5:hover	assets/button.scss	/^.btn-5:hover {$/;"	c
+.btn-5:hover:after	_sass/_button.scss	/^.btn-5:hover:after{$/;"	c
+.btn-5:hover:after	assets/button.scss	/^.btn-5:hover:after{$/;"	c
+.btn-5:hover:before	_sass/_button.scss	/^.btn-5:hover:before,$/;"	c
+.btn-5:hover:before	assets/button.scss	/^.btn-5:hover:before,$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span {$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span:after {$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span:before {$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span:before,$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span:hover:after {$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 span:hover:before {$/;"	c
+.btn-6	_sass/_button.scss	/^.btn-6 {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span:after {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span:before {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span:before,$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span:hover:after {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 span:hover:before {$/;"	c
+.btn-6	assets/button.scss	/^.btn-6 {$/;"	c
+.btn-6:after	_sass/_button.scss	/^.btn-6:after {$/;"	c
+.btn-6:after	assets/button.scss	/^.btn-6:after {$/;"	c
+.btn-6:before	_sass/_button.scss	/^.btn-6:before {$/;"	c
+.btn-6:before	_sass/_button.scss	/^.btn-6:before,$/;"	c
+.btn-6:before	assets/button.scss	/^.btn-6:before {$/;"	c
+.btn-6:before	assets/button.scss	/^.btn-6:before,$/;"	c
+.btn-6:hover	_sass/_button.scss	/^.btn-6:hover{$/;"	c
+.btn-6:hover	assets/button.scss	/^.btn-6:hover{$/;"	c
+.btn-6:hover:after	_sass/_button.scss	/^.btn-6:hover:after {$/;"	c
+.btn-6:hover:after	assets/button.scss	/^.btn-6:hover:after {$/;"	c
+.btn-6:hover:before	_sass/_button.scss	/^.btn-6:hover:before {$/;"	c
+.btn-6:hover:before	assets/button.scss	/^.btn-6:hover:before {$/;"	c
+.btn-7	_sass/_button.scss	/^.btn-7 {$/;"	c
+.btn-7	assets/button.scss	/^.btn-7 {$/;"	c
+.btn-7:after	_sass/_button.scss	/^.btn-7:after {$/;"	c
+.btn-7:after	assets/button.scss	/^.btn-7:after {$/;"	c
+.btn-7:before	_sass/_button.scss	/^.btn-7:before {$/;"	c
+.btn-7:before	_sass/_button.scss	/^.btn-7:before,$/;"	c
+.btn-7:before	assets/button.scss	/^.btn-7:before {$/;"	c
+.btn-7:before	assets/button.scss	/^.btn-7:before,$/;"	c
+.btn-7:hover	_sass/_button.scss	/^.btn-7:hover {$/;"	c
+.btn-7:hover	assets/button.scss	/^.btn-7:hover {$/;"	c
+.btn-7:hover:after	_sass/_button.scss	/^.btn-7:hover:after {$/;"	c
+.btn-7:hover:after	assets/button.scss	/^.btn-7:hover:after {$/;"	c
+.btn-7:hover:before	_sass/_button.scss	/^.btn-7:hover:before,$/;"	c
+.btn-7:hover:before	assets/button.scss	/^.btn-7:hover:before,$/;"	c
+.btn-8	_sass/_button.scss	/^.btn-8 {$/;"	c
+.btn-8	assets/button.scss	/^.btn-8 {$/;"	c
+.btn-8:after	_sass/_button.scss	/^.btn-8:after {$/;"	c
+.btn-8:after	assets/button.scss	/^.btn-8:after {$/;"	c
+.btn-8:hover	_sass/_button.scss	/^.btn-8:hover{$/;"	c
+.btn-8:hover	assets/button.scss	/^.btn-8:hover{$/;"	c
+.btn-8:hover:after	_sass/_button.scss	/^.btn-8:hover:after {$/;"	c
+.btn-8:hover:after	assets/button.scss	/^.btn-8:hover:after {$/;"	c
+.btn-9	_sass/_button.scss	/^.btn-9 {$/;"	c
+.btn-9	assets/button.scss	/^.btn-9 {$/;"	c
+.btn-9:after	_sass/_button.scss	/^.btn-9:after {$/;"	c
+.btn-9:after	assets/button.scss	/^.btn-9:after {$/;"	c
+.btn-9:hover	_sass/_button.scss	/^.btn-9:hover {$/;"	c
+.btn-9:hover	assets/button.scss	/^.btn-9:hover {$/;"	c
+.btn-9:hover:after	_sass/_button.scss	/^.btn-9:hover:after {$/;"	c
+.btn-9:hover:after	assets/button.scss	/^.btn-9:hover:after {$/;"	c
+.btn-subscribe	_site/assets/style.css	/^.btn-subscribe {$/;"	c
+.btn-subscribe	assets/style.scss	/^.btn-subscribe > svg {$/;"	c
+.btn-subscribe	assets/style.scss	/^.btn-subscribe {$/;"	c
+.btn-subscribe > svg	_site/assets/style.css	/^.btn-subscribe > svg {$/;"	s
+.btn-subscribe:hover	_site/assets/style.css	/^.btn-subscribe:hover {$/;"	c
+.btn-subscribe:hover	assets/style.scss	/^.btn-subscribe:hover {$/;"	c
+.c	_sass/_darcula.scss	/^.highlight .c { color: #6272a4 } \/* Comment *\/$/;"	c
+.c	_sass/_highlights.scss	/^.highlight .c { color: #586E75 } \/* Comment *\/$/;"	c
+.c1	_sass/_darcula.scss	/^.highlight .c1 { color: #6272a4 } \/* Comment.Single *\/$/;"	c
+.c1	_sass/_highlights.scss	/^.highlight .c1 { color: #586E75 } \/* Comment.Single *\/$/;"	c
+.carbon-img	_site/assets/style.css	/^  .carbon-img {$/;"	c
+.carbon-img	_site/assets/style.css	/^.carbon-img {$/;"	c
+.carbon-img	assets/style.scss	/^  .carbon-img img {$/;"	c
+.carbon-img	assets/style.scss	/^  .carbon-img {$/;"	c
+.carbon-img	assets/style.scss	/^.carbon-img img {$/;"	c
+.carbon-img	assets/style.scss	/^.carbon-img {$/;"	c
+.carbon-img img	_site/assets/style.css	/^  .carbon-img img {$/;"	s
+.carbon-img img	_site/assets/style.css	/^.carbon-img img {$/;"	s
+.carbon-poweredby	_site/assets/style.css	/^  .carbon-poweredby {$/;"	c
+.carbon-poweredby	_site/assets/style.css	/^.carbon-poweredby {$/;"	c
+.carbon-poweredby	assets/style.scss	/^  .carbon-poweredby {$/;"	c
+.carbon-poweredby	assets/style.scss	/^.carbon-poweredby {$/;"	c
+.carbon-text	_site/assets/style.css	/^  .carbon-text {$/;"	c
+.carbon-text	_site/assets/style.css	/^.carbon-text {$/;"	c
+.carbon-text	assets/style.scss	/^  .carbon-text {$/;"	c
+.carbon-text	assets/style.scss	/^.carbon-text {$/;"	c
+.cd-container	_site/assets/style.css	/^.cd-container {$/;"	c
+.cd-container	assets/style.scss	/^.cd-container a {$/;"	c
+.cd-container	assets/style.scss	/^.cd-container h1, .cd-container h2 {$/;"	c
+.cd-container	assets/style.scss	/^.cd-container img {$/;"	c
+.cd-container	assets/style.scss	/^.cd-container {$/;"	c
+.cd-container a	_site/assets/style.css	/^.cd-container a {$/;"	s
+.cd-container h1	_site/assets/style.css	/^.cd-container h1, .cd-container h2 {$/;"	s
+.cd-container h2	_site/assets/style.css	/^.cd-container h1, .cd-container h2 {$/;"	s
+.cd-container img	_site/assets/style.css	/^.cd-container img {$/;"	s
+.cd-container::after	_site/assets/style.css	/^.cd-container::after {$/;"	c
+.cd-container::after	assets/style.scss	/^.cd-container::after {$/;"	c
+.cd-date	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {$/;"	c
+.cd-date	assets/style.scss	/^  .cd-timeline-content .cd-date {$/;"	c
+.cd-date	assets/style.scss	/^  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-date	assets/style.scss	/^.cd-timeline-content .cd-date {$/;"	c
+.cd-date	assets/style.scss	/^.cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-date	assets/style.scss	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-location	assets/style.scss	/^.cd-timeline-img.cd-location {$/;"	c
+.cd-movie	assets/style.scss	/^.cd-timeline-img.cd-movie {$/;"	c
+.cd-picture	assets/style.scss	/^.cd-timeline-img.cd-picture {$/;"	c
+.cd-read-more	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {$/;"	c
+.cd-read-more	assets/style.scss	/^  .cd-timeline-content .cd-read-more {$/;"	c
+.cd-read-more	assets/style.scss	/^  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-read-more	assets/style.scss	/^.cd-timeline-content .cd-read-more {$/;"	c
+.cd-read-more	assets/style.scss	/^.cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-read-more	assets/style.scss	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-read-more:hover	assets/style.scss	/^.no-touch .cd-timeline-content .cd-read-more:hover {$/;"	c
+.cd-timeline-block	_site/assets/style.css	/^  .cd-timeline-block {$/;"	c
+.cd-timeline-block	_site/assets/style.css	/^.cd-timeline-block {$/;"	c
+.cd-timeline-block	assets/style.scss	/^  .cd-timeline-block {$/;"	c
+.cd-timeline-block	assets/style.scss	/^.cd-timeline-block {$/;"	c
+.cd-timeline-block:after	_site/assets/style.css	/^.cd-timeline-block:after {$/;"	c
+.cd-timeline-block:after	assets/style.scss	/^.cd-timeline-block:after {$/;"	c
+.cd-timeline-block:first-child	_site/assets/style.css	/^  .cd-timeline-block:first-child {$/;"	c
+.cd-timeline-block:first-child	_site/assets/style.css	/^.cd-timeline-block:first-child {$/;"	c
+.cd-timeline-block:first-child	assets/style.scss	/^  .cd-timeline-block:first-child {$/;"	c
+.cd-timeline-block:first-child	assets/style.scss	/^.cd-timeline-block:first-child {$/;"	c
+.cd-timeline-block:last-child	_site/assets/style.css	/^  .cd-timeline-block:last-child {$/;"	c
+.cd-timeline-block:last-child	_site/assets/style.css	/^.cd-timeline-block:last-child {$/;"	c
+.cd-timeline-block:last-child	assets/style.scss	/^  .cd-timeline-block:last-child {$/;"	c
+.cd-timeline-block:last-child	assets/style.scss	/^.cd-timeline-block:last-child {$/;"	c
+.cd-timeline-block:nth-child	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-block:nth-child	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-block:nth-child	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content {$/;"	c
+.cd-timeline-block:nth-child	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content::before {$/;"	c
+.cd-timeline-block:nth-child	assets/style.scss	/^  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {$/;"	c
+.cd-timeline-block:nth-child(even) .cd-timeline-content	_site/assets/style.css	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content {$/;"	c
+.cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date	_site/assets/style.css	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more	_site/assets/style.css	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-block:nth-child(even) .cd-timeline-content::before	_site/assets/style.css	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content::before {$/;"	c
+.cd-timeline-content	_site/assets/style.css	/^  .cd-timeline-content {$/;"	c
+.cd-timeline-content	_site/assets/style.css	/^.cd-timeline-content {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content h2 {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content p {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cd-timeline-content {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cssanimations .cd-timeline-content.bounce-in {$/;"	c
+.cd-timeline-content	assets/style.scss	/^  .cssanimations .cd-timeline-content.is-hidden {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content h2 {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content p {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.cd-timeline-content {$/;"	c
+.cd-timeline-content	assets/style.scss	/^.no-touch .cd-timeline-content .cd-read-more:hover {$/;"	c
+.cd-timeline-content .cd-date	_site/assets/style.css	/^  .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-date	_site/assets/style.css	/^  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-date	_site/assets/style.css	/^.cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-date	_site/assets/style.css	/^.cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-date	_site/assets/style.css	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-read-more	_site/assets/style.css	/^  .cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-content .cd-read-more	_site/assets/style.css	/^  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-read-more	_site/assets/style.css	/^.cd-timeline-content .cd-read-more {$/;"	c
+.cd-timeline-content .cd-read-more	_site/assets/style.css	/^.cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content .cd-read-more	_site/assets/style.css	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	c
+.cd-timeline-content h2	_site/assets/style.css	/^  .cd-timeline-content h2 {$/;"	s
+.cd-timeline-content h2	_site/assets/style.css	/^.cd-timeline-content h2 {$/;"	s
+.cd-timeline-content p	_site/assets/style.css	/^  .cd-timeline-content p {$/;"	s
+.cd-timeline-content p	_site/assets/style.css	/^.cd-timeline-content p {$/;"	s
+.cd-timeline-content p	_site/assets/style.css	/^.cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {$/;"	s
+.cd-timeline-content::before	_site/assets/style.css	/^  .cd-timeline-content::before {$/;"	c
+.cd-timeline-content::before	_site/assets/style.css	/^.cd-timeline-content::before {$/;"	c
+.cd-timeline-content::before	assets/style.scss	/^  .cd-timeline-block:nth-child(even) .cd-timeline-content::before {$/;"	c
+.cd-timeline-content::before	assets/style.scss	/^  .cd-timeline-content::before {$/;"	c
+.cd-timeline-content::before	assets/style.scss	/^.cd-timeline-content::before {$/;"	c
+.cd-timeline-content:after	_site/assets/style.css	/^.cd-timeline-content:after {$/;"	c
+.cd-timeline-content:after	assets/style.scss	/^.cd-timeline-content:after {$/;"	c
+.cd-timeline-img	_site/assets/style.css	/^  .cd-timeline-img {$/;"	c
+.cd-timeline-img	_site/assets/style.css	/^.cd-timeline-img {$/;"	c
+.cd-timeline-img	assets/style.scss	/^  .cd-timeline-img {$/;"	c
+.cd-timeline-img	assets/style.scss	/^  .cssanimations .cd-timeline-img.bounce-in {$/;"	c
+.cd-timeline-img	assets/style.scss	/^  .cssanimations .cd-timeline-img.is-hidden {$/;"	c
+.cd-timeline-img	assets/style.scss	/^.cd-timeline-img img {$/;"	c
+.cd-timeline-img	assets/style.scss	/^.cd-timeline-img {$/;"	c
+.cd-timeline-img	assets/style.scss	/^.cd-timeline-img.cd-location {$/;"	c
+.cd-timeline-img	assets/style.scss	/^.cd-timeline-img.cd-movie {$/;"	c
+.cd-timeline-img	assets/style.scss	/^.cd-timeline-img.cd-picture {$/;"	c
+.cd-timeline-img img	_site/assets/style.css	/^.cd-timeline-img img {$/;"	s
+.cd-timeline-img.cd-location	_site/assets/style.css	/^.cd-timeline-img.cd-location {$/;"	c
+.cd-timeline-img.cd-movie	_site/assets/style.css	/^.cd-timeline-img.cd-movie {$/;"	c
+.cd-timeline-img.cd-picture	_site/assets/style.css	/^.cd-timeline-img.cd-picture {$/;"	c
+.ch	_sass/_darcula.scss	/^.highlight .ch { color: #6272a4 } \/* Comment.Hashbang *\/$/;"	c
+.chip	_site/assets/style.css	/^.chip {$/;"	c
+.chip	assets/style.scss	/^.chip {$/;"	c
+.clearfix:after	_site/assets/style.css	/^.clearfix:after {$/;"	c
+.clearfix:after	assets/style.scss	/^.clearfix:after {$/;"	c
+.clearfix:before	_site/assets/style.css	/^.clearfix:before,$/;"	c
+.clearfix:before	assets/style.scss	/^.clearfix:before,$/;"	c
+.cm	_sass/_darcula.scss	/^.highlight .cm { color: #6272a4 } \/* Comment.Multiline *\/$/;"	c
+.cm	_sass/_highlights.scss	/^.highlight .cm { color: #586E75 } \/* Comment.Multiline *\/$/;"	c
+.comments	assets/style.scss	/^  .comments {$/;"	c
+.container	_site/assets/style.css	/^.container {$/;"	c
+.container	assets/style.scss	/^.container {$/;"	c
+.cp	_sass/_darcula.scss	/^.highlight .cp { color: #ff79c6 } \/* Comment.Preproc *\/$/;"	c
+.cp	_sass/_highlights.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.cpf	_sass/_darcula.scss	/^.highlight .cpf { color: #6272a4 } \/* Comment.PreprocFile *\/$/;"	c
+.cs	_sass/_darcula.scss	/^.highlight .cs { color: #6272a4 } \/* Comment.Special *\/$/;"	c
+.cs	_sass/_highlights.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.cssanimations	assets/style.scss	/^  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {$/;"	c
+.cssanimations	assets/style.scss	/^  .cssanimations .cd-timeline-content.bounce-in {$/;"	c
+.cssanimations	assets/style.scss	/^  .cssanimations .cd-timeline-content.is-hidden {$/;"	c
+.cssanimations	assets/style.scss	/^  .cssanimations .cd-timeline-img.bounce-in {$/;"	c
+.cssanimations	assets/style.scss	/^  .cssanimations .cd-timeline-img.is-hidden {$/;"	c
+.cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in	_site/assets/style.css	/^  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {$/;"	c
+.cssanimations .cd-timeline-content.bounce-in	_site/assets/style.css	/^  .cssanimations .cd-timeline-content.bounce-in {$/;"	c
+.cssanimations .cd-timeline-content.is-hidden	_site/assets/style.css	/^  .cssanimations .cd-timeline-content.is-hidden {$/;"	c
+.cssanimations .cd-timeline-img.bounce-in	_site/assets/style.css	/^  .cssanimations .cd-timeline-img.bounce-in {$/;"	c
+.cssanimations .cd-timeline-img.is-hidden	_site/assets/style.css	/^  .cssanimations .cd-timeline-img.is-hidden {$/;"	c
+.custom-btn	_sass/_button.scss	/^.custom-btn {$/;"	c
+.custom-btn	assets/button.scss	/^.custom-btn {$/;"	c
+.date	_site/assets/style.css	/^.date {$/;"	c
+.date	assets/style.scss	/^.date {$/;"	c
+.dl	_sass/_darcula.scss	/^.highlight .dl { color: #f1fa8c } \/* Literal.String.Delimiter *\/$/;"	c
+.dribbble	_sass/_svg-icons.scss	/^  &.dribbble      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.email	_sass/_svg-icons.scss	/^  &.email         { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.err	_sass/_darcula.scss	/^.highlight .err { color: #f8f8f2 } \/* Error *\/$/;"	c
+.err	_sass/_highlights.scss	/^.highlight .err { color: #93A1A1 } \/* Error *\/$/;"	c
+.facebook	_sass/_svg-icons.scss	/^  &.facebook      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.flickr	_sass/_svg-icons.scss	/^  &.flickr        { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.fm	_sass/_darcula.scss	/^.highlight .fm { color: #50fa7b } \/* Name.Function.Magic *\/$/;"	c
+.frame	assets/button.scss	/^.frame {$/;"	c
+.g	_sass/_darcula.scss	/^.highlight .g { color: #f8f8f2 } \/* Generic *\/$/;"	c
+.g	_sass/_highlights.scss	/^.highlight .g { color: #93A1A1 } \/* Generic *\/$/;"	c
+.gd	_sass/_darcula.scss	/^.highlight .gd { color: #8b080b } \/* Generic.Deleted *\/$/;"	c
+.gd	_sass/_highlights.scss	/^.highlight .gd { color: #2AA198 } \/* Generic.Deleted *\/$/;"	c
+.ge	_sass/_darcula.scss	/^.highlight .ge { color: #f8f8f2; text-decoration: underline } \/* Generic.Emph *\/$/;"	c
+.ge	_sass/_highlights.scss	/^.highlight .ge { color: #93A1A1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.gh	_sass/_darcula.scss	/^.highlight .gh { color: #f8f8f2; font-weight: bold } \/* Generic.Heading *\/$/;"	c
+.gh	_sass/_highlights.scss	/^.highlight .gh { color: #CB4B16 } \/* Generic.Heading *\/$/;"	c
+.gi	_sass/_darcula.scss	/^.highlight .gi { color: #f8f8f2; font-weight: bold } \/* Generic.Inserted *\/$/;"	c
+.gi	_sass/_highlights.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.github	_sass/_svg-icons.scss	/^  &.github        { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.gmnoprint	assets/style.scss	/^.gmnoprint img {$/;"	c
+.gmnoprint img	_site/assets/style.css	/^.gmnoprint img {$/;"	s
+.go	_sass/_darcula.scss	/^.highlight .go { color: #44475a } \/* Generic.Output *\/$/;"	c
+.go	_sass/_highlights.scss	/^.highlight .go { color: #93A1A1 } \/* Generic.Output *\/$/;"	c
+.googleplus	_sass/_svg-icons.scss	/^  &.googleplus	  { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBl/;"	c
+.gp	_sass/_darcula.scss	/^.highlight .gp { color: #f8f8f2 } \/* Generic.Prompt *\/$/;"	c
+.gp	_sass/_highlights.scss	/^.highlight .gp { color: #93A1A1 } \/* Generic.Prompt *\/$/;"	c
+.gr	_sass/_darcula.scss	/^.highlight .gr { color: #f8f8f2 } \/* Generic.Error *\/$/;"	c
+.gr	_sass/_highlights.scss	/^.highlight .gr { color: #DC322F } \/* Generic.Error *\/$/;"	c
+.gs	_sass/_darcula.scss	/^.highlight .gs { color: #f8f8f2 } \/* Generic.Strong *\/$/;"	c
+.gs	_sass/_highlights.scss	/^.highlight .gs { color: #93A1A1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.gt	_sass/_darcula.scss	/^.highlight .gt { color: #f8f8f2 } \/* Generic.Traceback *\/$/;"	c
+.gt	_sass/_highlights.scss	/^.highlight .gt { color: #93A1A1 } \/* Generic.Traceback *\/$/;"	c
+.gu	_sass/_darcula.scss	/^.highlight .gu { color: #f8f8f2; font-weight: bold } \/* Generic.Subheading *\/$/;"	c
+.gu	_sass/_highlights.scss	/^.highlight .gu { color: #CB4B16 } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight  { background: #282a36; color: #f8f8f2 }$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .bp { color: #f8f8f2; font-style: italic } \/* Name.Builtin.Pseudo *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .c { color: #6272a4 } \/* Comment *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .c1 { color: #6272a4 } \/* Comment.Single *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ch { color: #6272a4 } \/* Comment.Hashbang *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .cm { color: #6272a4 } \/* Comment.Multiline *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .cp { color: #ff79c6 } \/* Comment.Preproc *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .cpf { color: #6272a4 } \/* Comment.PreprocFile *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .cs { color: #6272a4 } \/* Comment.Special *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .dl { color: #f1fa8c } \/* Literal.String.Delimiter *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .err { color: #f8f8f2 } \/* Error *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .fm { color: #50fa7b } \/* Name.Function.Magic *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .g { color: #f8f8f2 } \/* Generic *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gd { color: #8b080b } \/* Generic.Deleted *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ge { color: #f8f8f2; text-decoration: underline } \/* Generic.Emph *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gh { color: #f8f8f2; font-weight: bold } \/* Generic.Heading *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gi { color: #f8f8f2; font-weight: bold } \/* Generic.Inserted *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .go { color: #44475a } \/* Generic.Output *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gp { color: #f8f8f2 } \/* Generic.Prompt *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gr { color: #f8f8f2 } \/* Generic.Error *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gs { color: #f8f8f2 } \/* Generic.Strong *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gt { color: #f8f8f2 } \/* Generic.Traceback *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .gu { color: #f8f8f2; font-weight: bold } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .hll { background-color: #f1fa8c }$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .il { color: #bd93f9 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .k { color: #ff79c6 } \/* Keyword *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kc { color: #ff79c6 } \/* Keyword.Constant *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kd { color: #8be9fd; font-style: italic } \/* Keyword.Declaration *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kn { color: #ff79c6 } \/* Keyword.Namespace *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kp { color: #ff79c6 } \/* Keyword.Pseudo *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kr { color: #ff79c6 } \/* Keyword.Reserved *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .kt { color: #8be9fd } \/* Keyword.Type *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .l { color: #f8f8f2 } \/* Literal *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ld { color: #f8f8f2 } \/* Literal.Date *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .m { color: #bd93f9 } \/* Literal.Number *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .mb { color: #bd93f9 } \/* Literal.Number.Bin *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .mf { color: #bd93f9 } \/* Literal.Number.Float *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .mh { color: #bd93f9 } \/* Literal.Number.Hex *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .mi { color: #bd93f9 } \/* Literal.Number.Integer *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .mo { color: #bd93f9 } \/* Literal.Number.Oct *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .n { color: #f8f8f2 } \/* Name *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .na { color: #50fa7b } \/* Name.Attribute *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nb { color: #8be9fd; font-style: italic } \/* Name.Builtin *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nc { color: #50fa7b } \/* Name.Class *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nd { color: #f8f8f2 } \/* Name.Decorator *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ne { color: #f8f8f2 } \/* Name.Exception *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nf { color: #50fa7b } \/* Name.Function *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ni { color: #f8f8f2 } \/* Name.Entity *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nl { color: #8be9fd; font-style: italic } \/* Name.Label *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nn { color: #f8f8f2 } \/* Name.Namespace *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .no { color: #f8f8f2 } \/* Name.Constant *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nt { color: #ff79c6 } \/* Name.Tag *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nv { color: #8be9fd; font-style: italic } \/* Name.Variable *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .nx { color: #f8f8f2 } \/* Name.Other *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .o { color: #ff79c6 } \/* Operator *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ow { color: #ff79c6 } \/* Operator.Word *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .p { color: #f8f8f2 } \/* Punctuation *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .py { color: #f8f8f2 } \/* Name.Property *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .s { color: #f1fa8c } \/* Literal.String *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .s1 { color: #f1fa8c } \/* Literal.String.Single *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .s2 { color: #f1fa8c } \/* Literal.String.Double *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sa { color: #f1fa8c } \/* Literal.String.Affix *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sb { color: #f1fa8c } \/* Literal.String.Backtick *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sc { color: #f1fa8c } \/* Literal.String.Char *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sd { color: #f1fa8c } \/* Literal.String.Doc *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .se { color: #f1fa8c } \/* Literal.String.Escape *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sh { color: #f1fa8c } \/* Literal.String.Heredoc *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .si { color: #f1fa8c } \/* Literal.String.Interpol *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sr { color: #f1fa8c } \/* Literal.String.Regex *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .ss { color: #f1fa8c } \/* Literal.String.Symbol *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .sx { color: #f1fa8c } \/* Literal.String.Other *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .vc { color: #8be9fd; font-style: italic } \/* Name.Variable.Class *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .vg { color: #8be9fd; font-style: italic } \/* Name.Variable.Global *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .vi { color: #8be9fd; font-style: italic } \/* Name.Variable.Instance *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .vm { color: #8be9fd; font-style: italic } \/* Name.Variable.Magic *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .w { color: #f8f8f2 } \/* Text.Whitespace *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight .x { color: #f8f8f2 } \/* Other *\/$/;"	c
+.highlight	_sass/_darcula.scss	/^.highlight {$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .bp { color: #268BD2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .c { color: #586E75 } \/* Comment *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .c1 { color: #586E75 } \/* Comment.Single *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cm { color: #586E75 } \/* Comment.Multiline *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .err { color: #93A1A1 } \/* Error *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .g { color: #93A1A1 } \/* Generic *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gd { color: #2AA198 } \/* Generic.Deleted *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ge { color: #93A1A1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gh { color: #CB4B16 } \/* Generic.Heading *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .go { color: #93A1A1 } \/* Generic.Output *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gp { color: #93A1A1 } \/* Generic.Prompt *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gr { color: #DC322F } \/* Generic.Error *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gs { color: #93A1A1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gt { color: #93A1A1 } \/* Generic.Traceback *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gu { color: #CB4B16 } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .il { color: #2AA198 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kc { color: #CB4B16 } \/* Keyword.Constant *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kd { color: #268BD2 } \/* Keyword.Declaration *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kr { color: #268BD2 } \/* Keyword.Reserved *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kt { color: #DC322F } \/* Keyword.Type *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .l { color: #93A1A1 } \/* Literal *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ld { color: #93A1A1 } \/* Literal.Date *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .m { color: #2AA198 } \/* Literal.Number *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mf { color: #2AA198 } \/* Literal.Number.Float *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mh { color: #2AA198 } \/* Literal.Number.Hex *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mi { color: #2AA198 } \/* Literal.Number.Integer *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mo { color: #2AA198 } \/* Literal.Number.Oct *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .n { color: #93A1A1 } \/* Name *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .na { color: #93A1A1 } \/* Name.Attribute *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nb { color: #E91E63 } \/* Name.Builtin *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nc { color: #268BD2 } \/* Name.Class *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nd { color: #268BD2 } \/* Name.Decorator *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ne { color: #CB4B16 } \/* Name.Exception *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nf { color: #268BD2 } \/* Name.Function *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ni { color: #CB4B16 } \/* Name.Entity *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nl { color: #93A1A1 } \/* Name.Label *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nn { color: #93A1A1 } \/* Name.Namespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .no { color: #CB4B16 } \/* Name.Constant *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nt { color: #268BD2 } \/* Name.Tag *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nv { color: #268BD2 } \/* Name.Variable *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nx { color: #B39DDB } \/* Name.Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .p { color: #93A1A1 } \/* Punctuation *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .py { color: #93A1A1 } \/* Name.Property *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s { color: #2AA198 } \/* Literal.String *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s1 { color: #2AA198 } \/* Literal.String.Single *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s2 { color: #2AA198 } \/* Literal.String.Double *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sb { color: #586E75 } \/* Literal.String.Backtick *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sc { color: #2AA198 } \/* Literal.String.Char *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sd { color: #93A1A1 } \/* Literal.String.Doc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .se { color: #CB4B16 } \/* Literal.String.Escape *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sh { color: #93A1A1 } \/* Literal.String.Heredoc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .si { color: #2AA198 } \/* Literal.String.Interpol *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sr { color: #DC322F } \/* Literal.String.Regex *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ss { color: #2AA198 } \/* Literal.String.Symbol *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sx { color: #2AA198 } \/* Literal.String.Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vc { color: #268BD2 } \/* Name.Variable.Class *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vg { color: #268BD2 } \/* Name.Variable.Global *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vi { color: #268BD2 } \/* Name.Variable.Instance *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .w { color: #93A1A1 } \/* Text.Whitespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .x { color: #CB4B16 } \/* Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight {$/;"	c
+.highlight	_site/assets/style.css	/^.highlight {$/;"	c
+.highlight .bp	_site/assets/style.css	/^.highlight .bp {$/;"	c
+.highlight .c	_site/assets/style.css	/^.highlight .c {$/;"	c
+.highlight .c1	_site/assets/style.css	/^.highlight .c1 {$/;"	c
+.highlight .ch	_site/assets/style.css	/^.highlight .ch {$/;"	c
+.highlight .cm	_site/assets/style.css	/^.highlight .cm {$/;"	c
+.highlight .cp	_site/assets/style.css	/^.highlight .cp {$/;"	c
+.highlight .cpf	_site/assets/style.css	/^.highlight .cpf {$/;"	c
+.highlight .cs	_site/assets/style.css	/^.highlight .cs {$/;"	c
+.highlight .dl	_site/assets/style.css	/^.highlight .dl {$/;"	c
+.highlight .err	_site/assets/style.css	/^.highlight .err {$/;"	c
+.highlight .fm	_site/assets/style.css	/^.highlight .fm {$/;"	c
+.highlight .g	_site/assets/style.css	/^.highlight .g {$/;"	c
+.highlight .gd	_site/assets/style.css	/^.highlight .gd {$/;"	c
+.highlight .ge	_site/assets/style.css	/^.highlight .ge {$/;"	c
+.highlight .gh	_site/assets/style.css	/^.highlight .gh {$/;"	c
+.highlight .gi	_site/assets/style.css	/^.highlight .gi {$/;"	c
+.highlight .go	_site/assets/style.css	/^.highlight .go {$/;"	c
+.highlight .gp	_site/assets/style.css	/^.highlight .gp {$/;"	c
+.highlight .gr	_site/assets/style.css	/^.highlight .gr {$/;"	c
+.highlight .gs	_site/assets/style.css	/^.highlight .gs {$/;"	c
+.highlight .gt	_site/assets/style.css	/^.highlight .gt {$/;"	c
+.highlight .gu	_site/assets/style.css	/^.highlight .gu {$/;"	c
+.highlight .hll	_site/assets/style.css	/^.highlight .hll {$/;"	c
+.highlight .il	_site/assets/style.css	/^.highlight .il {$/;"	c
+.highlight .k	_site/assets/style.css	/^.highlight .k {$/;"	c
+.highlight .kc	_site/assets/style.css	/^.highlight .kc {$/;"	c
+.highlight .kd	_site/assets/style.css	/^.highlight .kd {$/;"	c
+.highlight .kn	_site/assets/style.css	/^.highlight .kn {$/;"	c
+.highlight .kp	_site/assets/style.css	/^.highlight .kp {$/;"	c
+.highlight .kr	_site/assets/style.css	/^.highlight .kr {$/;"	c
+.highlight .kt	_site/assets/style.css	/^.highlight .kt {$/;"	c
+.highlight .l	_site/assets/style.css	/^.highlight .l {$/;"	c
+.highlight .ld	_site/assets/style.css	/^.highlight .ld {$/;"	c
+.highlight .m	_site/assets/style.css	/^.highlight .m {$/;"	c
+.highlight .mb	_site/assets/style.css	/^.highlight .mb {$/;"	c
+.highlight .mf	_site/assets/style.css	/^.highlight .mf {$/;"	c
+.highlight .mh	_site/assets/style.css	/^.highlight .mh {$/;"	c
+.highlight .mi	_site/assets/style.css	/^.highlight .mi {$/;"	c
+.highlight .mo	_site/assets/style.css	/^.highlight .mo {$/;"	c
+.highlight .n	_site/assets/style.css	/^.highlight .n {$/;"	c
+.highlight .na	_site/assets/style.css	/^.highlight .na {$/;"	c
+.highlight .nb	_site/assets/style.css	/^.highlight .nb {$/;"	c
+.highlight .nc	_site/assets/style.css	/^.highlight .nc {$/;"	c
+.highlight .nd	_site/assets/style.css	/^.highlight .nd {$/;"	c
+.highlight .ne	_site/assets/style.css	/^.highlight .ne {$/;"	c
+.highlight .nf	_site/assets/style.css	/^.highlight .nf {$/;"	c
+.highlight .ni	_site/assets/style.css	/^.highlight .ni {$/;"	c
+.highlight .nl	_site/assets/style.css	/^.highlight .nl {$/;"	c
+.highlight .nn	_site/assets/style.css	/^.highlight .nn {$/;"	c
+.highlight .no	_site/assets/style.css	/^.highlight .no {$/;"	c
+.highlight .nt	_site/assets/style.css	/^.highlight .nt {$/;"	c
+.highlight .nv	_site/assets/style.css	/^.highlight .nv {$/;"	c
+.highlight .nx	_site/assets/style.css	/^.highlight .nx {$/;"	c
+.highlight .o	_site/assets/style.css	/^.highlight .o {$/;"	c
+.highlight .ow	_site/assets/style.css	/^.highlight .ow {$/;"	c
+.highlight .p	_site/assets/style.css	/^.highlight .p {$/;"	c
+.highlight .py	_site/assets/style.css	/^.highlight .py {$/;"	c
+.highlight .s	_site/assets/style.css	/^.highlight .s {$/;"	c
+.highlight .s1	_site/assets/style.css	/^.highlight .s1 {$/;"	c
+.highlight .s2	_site/assets/style.css	/^.highlight .s2 {$/;"	c
+.highlight .sa	_site/assets/style.css	/^.highlight .sa {$/;"	c
+.highlight .sb	_site/assets/style.css	/^.highlight .sb {$/;"	c
+.highlight .sc	_site/assets/style.css	/^.highlight .sc {$/;"	c
+.highlight .sd	_site/assets/style.css	/^.highlight .sd {$/;"	c
+.highlight .se	_site/assets/style.css	/^.highlight .se {$/;"	c
+.highlight .sh	_site/assets/style.css	/^.highlight .sh {$/;"	c
+.highlight .si	_site/assets/style.css	/^.highlight .si {$/;"	c
+.highlight .sr	_site/assets/style.css	/^.highlight .sr {$/;"	c
+.highlight .ss	_site/assets/style.css	/^.highlight .ss {$/;"	c
+.highlight .sx	_site/assets/style.css	/^.highlight .sx {$/;"	c
+.highlight .vc	_site/assets/style.css	/^.highlight .vc {$/;"	c
+.highlight .vg	_site/assets/style.css	/^.highlight .vg {$/;"	c
+.highlight .vi	_site/assets/style.css	/^.highlight .vi {$/;"	c
+.highlight .vm	_site/assets/style.css	/^.highlight .vm {$/;"	c
+.highlight .w	_site/assets/style.css	/^.highlight .w {$/;"	c
+.highlight .x	_site/assets/style.css	/^.highlight .x {$/;"	c
+.highlighter-rouge	_sass/_darcula.scss	/^.highlighter-rouge { $/;"	c
+.highlighter-rouge	_sass/_highlights.scss	/^.highlighter-rouge { $/;"	c
+.highlighter-rouge	_site/assets/style.css	/^.highlighter-rouge {$/;"	c
+.hll	_sass/_darcula.scss	/^.highlight .hll { background-color: #f1fa8c }$/;"	c
+.il	_sass/_darcula.scss	/^.highlight .il { color: #bd93f9 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.il	_sass/_highlights.scss	/^.highlight .il { color: #2AA198 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.instagram	_sass/_svg-icons.scss	/^  &.instagram     { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiB/;"	c
+.is-hidden	assets/style.scss	/^  .cssanimations .cd-timeline-content.is-hidden {$/;"	c
+.is-hidden	assets/style.scss	/^  .cssanimations .cd-timeline-img.is-hidden {$/;"	c
+.k	_sass/_darcula.scss	/^.highlight .k { color: #ff79c6 } \/* Keyword *\/$/;"	c
+.k	_sass/_highlights.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.kc	_sass/_darcula.scss	/^.highlight .kc { color: #ff79c6 } \/* Keyword.Constant *\/$/;"	c
+.kc	_sass/_highlights.scss	/^.highlight .kc { color: #CB4B16 } \/* Keyword.Constant *\/$/;"	c
+.kd	_sass/_darcula.scss	/^.highlight .kd { color: #8be9fd; font-style: italic } \/* Keyword.Declaration *\/$/;"	c
+.kd	_sass/_highlights.scss	/^.highlight .kd { color: #268BD2 } \/* Keyword.Declaration *\/$/;"	c
+.kn	_sass/_darcula.scss	/^.highlight .kn { color: #ff79c6 } \/* Keyword.Namespace *\/$/;"	c
+.kn	_sass/_highlights.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.kp	_sass/_darcula.scss	/^.highlight .kp { color: #ff79c6 } \/* Keyword.Pseudo *\/$/;"	c
+.kp	_sass/_highlights.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.kr	_sass/_darcula.scss	/^.highlight .kr { color: #ff79c6 } \/* Keyword.Reserved *\/$/;"	c
+.kr	_sass/_highlights.scss	/^.highlight .kr { color: #268BD2 } \/* Keyword.Reserved *\/$/;"	c
+.kt	_sass/_darcula.scss	/^.highlight .kt { color: #8be9fd } \/* Keyword.Type *\/$/;"	c
+.kt	_sass/_highlights.scss	/^.highlight .kt { color: #DC322F } \/* Keyword.Type *\/$/;"	c
+.l	_sass/_darcula.scss	/^.highlight .l { color: #f8f8f2 } \/* Literal *\/$/;"	c
+.l	_sass/_highlights.scss	/^.highlight .l { color: #93A1A1 } \/* Literal *\/$/;"	c
+.ld	_sass/_darcula.scss	/^.highlight .ld { color: #f8f8f2 } \/* Literal.Date *\/$/;"	c
+.ld	_sass/_highlights.scss	/^.highlight .ld { color: #93A1A1 } \/* Literal.Date *\/$/;"	c
+.lighten-2	assets/style.scss	/^.yellow.lighten-2 {$/;"	c
+.linkedin	_sass/_svg-icons.scss	/^  &.linkedin      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.m	_sass/_darcula.scss	/^.highlight .m { color: #bd93f9 } \/* Literal.Number *\/$/;"	c
+.m	_sass/_highlights.scss	/^.highlight .m { color: #2AA198 } \/* Literal.Number *\/$/;"	c
+.masthead	_site/assets/style.css	/^  .masthead {$/;"	c
+.masthead	_site/assets/style.css	/^.masthead {$/;"	c
+.masthead	assets/style.scss	/^.masthead {$/;"	c
+.mb	_sass/_darcula.scss	/^.highlight .mb { color: #bd93f9 } \/* Literal.Number.Bin *\/$/;"	c
+.mf	_sass/_darcula.scss	/^.highlight .mf { color: #bd93f9 } \/* Literal.Number.Float *\/$/;"	c
+.mf	_sass/_highlights.scss	/^.highlight .mf { color: #2AA198 } \/* Literal.Number.Float *\/$/;"	c
+.mh	_sass/_darcula.scss	/^.highlight .mh { color: #bd93f9 } \/* Literal.Number.Hex *\/$/;"	c
+.mh	_sass/_highlights.scss	/^.highlight .mh { color: #2AA198 } \/* Literal.Number.Hex *\/$/;"	c
+.mi	_sass/_darcula.scss	/^.highlight .mi { color: #bd93f9 } \/* Literal.Number.Integer *\/$/;"	c
+.mi	_sass/_highlights.scss	/^.highlight .mi { color: #2AA198 } \/* Literal.Number.Integer *\/$/;"	c
+.mo	_sass/_darcula.scss	/^.highlight .mo { color: #bd93f9 } \/* Literal.Number.Oct *\/$/;"	c
+.mo	_sass/_highlights.scss	/^.highlight .mo { color: #2AA198 } \/* Literal.Number.Oct *\/$/;"	c
+.n	_sass/_darcula.scss	/^.highlight .n { color: #f8f8f2 } \/* Name *\/$/;"	c
+.n	_sass/_highlights.scss	/^.highlight .n { color: #93A1A1 } \/* Name *\/$/;"	c
+.na	_sass/_darcula.scss	/^.highlight .na { color: #50fa7b } \/* Name.Attribute *\/$/;"	c
+.na	_sass/_highlights.scss	/^.highlight .na { color: #93A1A1 } \/* Name.Attribute *\/$/;"	c
+.nb	_sass/_darcula.scss	/^.highlight .nb { color: #8be9fd; font-style: italic } \/* Name.Builtin *\/$/;"	c
+.nb	_sass/_highlights.scss	/^.highlight .nb { color: #E91E63 } \/* Name.Builtin *\/$/;"	c
+.nc	_sass/_darcula.scss	/^.highlight .nc { color: #50fa7b } \/* Name.Class *\/$/;"	c
+.nc	_sass/_highlights.scss	/^.highlight .nc { color: #268BD2 } \/* Name.Class *\/$/;"	c
+.nd	_sass/_darcula.scss	/^.highlight .nd { color: #f8f8f2 } \/* Name.Decorator *\/$/;"	c
+.nd	_sass/_highlights.scss	/^.highlight .nd { color: #268BD2 } \/* Name.Decorator *\/$/;"	c
+.ne	_sass/_darcula.scss	/^.highlight .ne { color: #f8f8f2 } \/* Name.Exception *\/$/;"	c
+.ne	_sass/_highlights.scss	/^.highlight .ne { color: #CB4B16 } \/* Name.Exception *\/$/;"	c
+.nf	_sass/_darcula.scss	/^.highlight .nf { color: #50fa7b } \/* Name.Function *\/$/;"	c
+.nf	_sass/_highlights.scss	/^.highlight .nf { color: #268BD2 } \/* Name.Function *\/$/;"	c
+.ni	_sass/_darcula.scss	/^.highlight .ni { color: #f8f8f2 } \/* Name.Entity *\/$/;"	c
+.ni	_sass/_highlights.scss	/^.highlight .ni { color: #CB4B16 } \/* Name.Entity *\/$/;"	c
+.nl	_sass/_darcula.scss	/^.highlight .nl { color: #8be9fd; font-style: italic } \/* Name.Label *\/$/;"	c
+.nl	_sass/_highlights.scss	/^.highlight .nl { color: #93A1A1 } \/* Name.Label *\/$/;"	c
+.nn	_sass/_darcula.scss	/^.highlight .nn { color: #f8f8f2 } \/* Name.Namespace *\/$/;"	c
+.nn	_sass/_highlights.scss	/^.highlight .nn { color: #93A1A1 } \/* Name.Namespace *\/$/;"	c
+.no	_sass/_darcula.scss	/^.highlight .no { color: #f8f8f2 } \/* Name.Constant *\/$/;"	c
+.no	_sass/_highlights.scss	/^.highlight .no { color: #CB4B16 } \/* Name.Constant *\/$/;"	c
+.no-touch	assets/style.scss	/^.no-touch .cd-timeline-content .cd-read-more:hover {$/;"	c
+.no-touch .cd-timeline-content .cd-read-more:hover	_site/assets/style.css	/^.no-touch .cd-timeline-content .cd-read-more:hover {$/;"	c
+.nt	_sass/_darcula.scss	/^.highlight .nt { color: #ff79c6 } \/* Name.Tag *\/$/;"	c
+.nt	_sass/_highlights.scss	/^.highlight .nt { color: #268BD2 } \/* Name.Tag *\/$/;"	c
+.nv	_sass/_darcula.scss	/^.highlight .nv { color: #8be9fd; font-style: italic } \/* Name.Variable *\/$/;"	c
+.nv	_sass/_highlights.scss	/^.highlight .nv { color: #268BD2 } \/* Name.Variable *\/$/;"	c
+.nx	_sass/_darcula.scss	/^.highlight .nx { color: #f8f8f2 } \/* Name.Other *\/$/;"	c
+.nx	_sass/_highlights.scss	/^.highlight .nx { color: #B39DDB } \/* Name.Other *\/$/;"	c
+.o	_sass/_darcula.scss	/^.highlight .o { color: #ff79c6 } \/* Operator *\/$/;"	c
+.o	_sass/_highlights.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.ow	_sass/_darcula.scss	/^.highlight .ow { color: #ff79c6 } \/* Operator.Word *\/$/;"	c
+.ow	_sass/_highlights.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.p	_sass/_darcula.scss	/^.highlight .p { color: #f8f8f2 } \/* Punctuation *\/$/;"	c
+.p	_sass/_highlights.scss	/^.highlight .p { color: #93A1A1 } \/* Punctuation *\/$/;"	c
+.page	assets/style.scss	/^.page h1{$/;"	c
+.page	assets/style.scss	/^.page {$/;"	c
+.page h1	_site/assets/style.css	/^.page h1 {$/;"	s
+.pagination	_site/assets/style.css	/^.pagination {$/;"	c
+.pagination	assets/style.scss	/^.pagination a {$/;"	c
+.pagination	assets/style.scss	/^.pagination a, .pagination span {$/;"	c
+.pagination	assets/style.scss	/^.pagination {$/;"	c
+.pagination a	_site/assets/style.css	/^.pagination a, .pagination span {$/;"	s
+.pagination a:hover	_site/assets/style.css	/^.pagination a:hover {$/;"	s
+.pagination span	_site/assets/style.css	/^.pagination a, .pagination span {$/;"	s
+.pinterest	_sass/_svg-icons.scss	/^  &.pinterest     { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.playconsole	_sass/_svg-icons.scss	/^  &.playconsole   { background-image: url(data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA/;"	c
+.post	assets/style.scss	/^	.post h2::before, .post h2::after {$/;"	c
+.post	assets/style.scss	/^.post h1{$/;"	c
+.post	assets/style.scss	/^.post {$/;"	c
+.post	assets/style.scss	/^.posts > .post {$/;"	c
+.post .comments	_site/assets/style.css	/^.post .comments {$/;"	c
+.post .read-more	_site/assets/style.css	/^.post .read-more {$/;"	c
+.post .you-may-like	_site/assets/style.css	/^.post .you-may-like {$/;"	c
+.post blockquote	_site/assets/style.css	/^.post blockquote {$/;"	s
+.post h1	_site/assets/style.css	/^.post h1 {$/;"	s
+.post h2::after	_site/assets/style.css	/^  .post h2::before, .post h2::after {$/;"	s
+.post h2::before	_site/assets/style.css	/^  .post h2::before, .post h2::after {$/;"	s
+.post-tags	_site/assets/style.css	/^.post-tags {$/;"	c
+.post-tags	assets/style.scss	/^.post-tags a {$/;"	c
+.post-tags	assets/style.scss	/^.post-tags {$/;"	c
+.post-tags a	_site/assets/style.css	/^.post-tags a {$/;"	s
+.post:last-child	assets/style.scss	/^.posts > .post:last-child {$/;"	c
+.post_date	_site/assets/style.css	/^.post_date {$/;"	c
+.post_date	assets/style.scss	/^.post_date{$/;"	c
+.posts	assets/style.scss	/^.posts > .post {$/;"	c
+.posts	assets/style.scss	/^.posts > .post:last-child {$/;"	c
+.posts > .post	_site/assets/style.css	/^.posts > .post {$/;"	c
+.posts > .post:last-child	_site/assets/style.css	/^.posts > .post:last-child {$/;"	c
+.py	_sass/_darcula.scss	/^.highlight .py { color: #f8f8f2 } \/* Name.Property *\/$/;"	c
+.py	_sass/_highlights.scss	/^.highlight .py { color: #93A1A1 } \/* Name.Property *\/$/;"	c
+.read-more	assets/style.scss	/^  .read-more {$/;"	c
+.rss	_sass/_svg-icons.scss	/^  &.rss           { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.s	_sass/_darcula.scss	/^.highlight .s { color: #f1fa8c } \/* Literal.String *\/$/;"	c
+.s	_sass/_highlights.scss	/^.highlight .s { color: #2AA198 } \/* Literal.String *\/$/;"	c
+.s1	_sass/_darcula.scss	/^.highlight .s1 { color: #f1fa8c } \/* Literal.String.Single *\/$/;"	c
+.s1	_sass/_highlights.scss	/^.highlight .s1 { color: #2AA198 } \/* Literal.String.Single *\/$/;"	c
+.s2	_sass/_darcula.scss	/^.highlight .s2 { color: #f1fa8c } \/* Literal.String.Double *\/$/;"	c
+.s2	_sass/_highlights.scss	/^.highlight .s2 { color: #2AA198 } \/* Literal.String.Double *\/$/;"	c
+.sa	_sass/_darcula.scss	/^.highlight .sa { color: #f1fa8c } \/* Literal.String.Affix *\/$/;"	c
+.sb	_sass/_darcula.scss	/^.highlight .sb { color: #f1fa8c } \/* Literal.String.Backtick *\/$/;"	c
+.sb	_sass/_highlights.scss	/^.highlight .sb { color: #586E75 } \/* Literal.String.Backtick *\/$/;"	c
+.sc	_sass/_darcula.scss	/^.highlight .sc { color: #f1fa8c } \/* Literal.String.Char *\/$/;"	c
+.sc	_sass/_highlights.scss	/^.highlight .sc { color: #2AA198 } \/* Literal.String.Char *\/$/;"	c
+.sd	_sass/_darcula.scss	/^.highlight .sd { color: #f1fa8c } \/* Literal.String.Doc *\/$/;"	c
+.sd	_sass/_highlights.scss	/^.highlight .sd { color: #93A1A1 } \/* Literal.String.Doc *\/$/;"	c
+.se	_sass/_darcula.scss	/^.highlight .se { color: #f1fa8c } \/* Literal.String.Escape *\/$/;"	c
+.se	_sass/_highlights.scss	/^.highlight .se { color: #CB4B16 } \/* Literal.String.Escape *\/$/;"	c
+.sh	_sass/_darcula.scss	/^.highlight .sh { color: #f1fa8c } \/* Literal.String.Heredoc *\/$/;"	c
+.sh	_sass/_highlights.scss	/^.highlight .sh { color: #93A1A1 } \/* Literal.String.Heredoc *\/$/;"	c
+.share-box	_site/assets/style.css	/^.share-box {$/;"	c
+.share-box	assets/style.scss	/^.share-box {$/;"	c
+.si	_sass/_darcula.scss	/^.highlight .si { color: #f1fa8c } \/* Literal.String.Interpol *\/$/;"	c
+.si	_sass/_highlights.scss	/^.highlight .si { color: #2AA198 } \/* Literal.String.Interpol *\/$/;"	c
+.site-description	_site/assets/style.css	/^  .site-description {$/;"	c
+.site-description	_site/assets/style.css	/^.site-description {$/;"	c
+.site-description	assets/style.scss	/^.site-description {$/;"	c
+.site-info	_site/assets/style.css	/^  .site-info {$/;"	c
+.site-info	_site/assets/style.css	/^.site-info {$/;"	c
+.site-info	assets/style.scss	/^.site-info {$/;"	c
+.site-name	_site/assets/style.css	/^  .site-name {$/;"	c
+.site-name	_site/assets/style.css	/^.site-name {$/;"	c
+.site-name	assets/style.scss	/^.site-name {$/;"	c
+.sr	_sass/_darcula.scss	/^.highlight .sr { color: #f1fa8c } \/* Literal.String.Regex *\/$/;"	c
+.sr	_sass/_highlights.scss	/^.highlight .sr { color: #DC322F } \/* Literal.String.Regex *\/$/;"	c
+.ss	_sass/_darcula.scss	/^.highlight .ss { color: #f1fa8c } \/* Literal.String.Symbol *\/$/;"	c
+.ss	_sass/_highlights.scss	/^.highlight .ss { color: #2AA198 } \/* Literal.String.Symbol *\/$/;"	c
+.stackoverflow	_sass/_svg-icons.scss	/^  &.stackoverflow { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWd/;"	c
+.subscribeBtn	_site/assets/style.css	/^.subscribeBtn {$/;"	c
+.subscribeBtn	assets/style.scss	/^.subscribeBtn {$/;"	c
+.svg-icon	_sass/_svg-icons.scss	/^.svg-icon {$/;"	c
+.svg-icon	_site/assets/style.css	/^.svg-icon {$/;"	c
+.svg-icon.dribbble	_site/assets/style.css	/^.svg-icon.dribbble {$/;"	c
+.svg-icon.email	_site/assets/style.css	/^.svg-icon.email {$/;"	c
+.svg-icon.facebook	_site/assets/style.css	/^.svg-icon.facebook {$/;"	c
+.svg-icon.flickr	_site/assets/style.css	/^.svg-icon.flickr {$/;"	c
+.svg-icon.github	_site/assets/style.css	/^.svg-icon.github {$/;"	c
+.svg-icon.googleplus	_site/assets/style.css	/^.svg-icon.googleplus {$/;"	c
+.svg-icon.instagram	_site/assets/style.css	/^.svg-icon.instagram {$/;"	c
+.svg-icon.linkedin	_site/assets/style.css	/^.svg-icon.linkedin {$/;"	c
+.svg-icon.pinterest	_site/assets/style.css	/^.svg-icon.pinterest {$/;"	c
+.svg-icon.playconsole	_site/assets/style.css	/^.svg-icon.playconsole {$/;"	c
+.svg-icon.rss	_site/assets/style.css	/^.svg-icon.rss {$/;"	c
+.svg-icon.stackoverflow	_site/assets/style.css	/^.svg-icon.stackoverflow {$/;"	c
+.svg-icon.twitter	_site/assets/style.css	/^.svg-icon.twitter {$/;"	c
+.svg-icon.youtube	_site/assets/style.css	/^.svg-icon.youtube {$/;"	c
+.sx	_sass/_darcula.scss	/^.highlight .sx { color: #f1fa8c } \/* Literal.String.Other *\/$/;"	c
+.sx	_sass/_highlights.scss	/^.highlight .sx { color: #2AA198 } \/* Literal.String.Other *\/$/;"	c
+.text-link	_site/assets/style.css	/^.text-link {$/;"	c
+.text-link	assets/style.scss	/^.text-link {$/;"	c
+.tinyletterForm	_site/assets/style.css	/^.tinyletterForm {$/;"	c
+.tinyletterForm	assets/style.scss	/^.tinyletterForm {$/;"	c
+.tlemail	_site/assets/style.css	/^.tlemail {$/;"	c
+.tlemail	assets/style.scss	/^.tlemail {$/;"	c
+.twitter	_sass/_svg-icons.scss	/^  &.twitter       { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/;"	c
+.vc	_sass/_darcula.scss	/^.highlight .vc { color: #8be9fd; font-style: italic } \/* Name.Variable.Class *\/$/;"	c
+.vc	_sass/_highlights.scss	/^.highlight .vc { color: #268BD2 } \/* Name.Variable.Class *\/$/;"	c
+.vg	_sass/_darcula.scss	/^.highlight .vg { color: #8be9fd; font-style: italic } \/* Name.Variable.Global *\/$/;"	c
+.vg	_sass/_highlights.scss	/^.highlight .vg { color: #268BD2 } \/* Name.Variable.Global *\/$/;"	c
+.vi	_sass/_darcula.scss	/^.highlight .vi { color: #8be9fd; font-style: italic } \/* Name.Variable.Instance *\/$/;"	c
+.vi	_sass/_highlights.scss	/^.highlight .vi { color: #268BD2 } \/* Name.Variable.Instance *\/$/;"	c
+.vm	_sass/_darcula.scss	/^.highlight .vm { color: #8be9fd; font-style: italic } \/* Name.Variable.Magic *\/$/;"	c
+.w	_sass/_darcula.scss	/^.highlight .w { color: #f8f8f2 } \/* Text.Whitespace *\/$/;"	c
+.w	_sass/_highlights.scss	/^.highlight .w { color: #93A1A1 } \/* Text.Whitespace *\/$/;"	c
+.wrapper-container	_site/assets/style.css	/^.wrapper-container {$/;"	c
+.wrapper-container	assets/style.scss	/^.wrapper-container {$/;"	c
+.wrapper-footer	_site/assets/style.css	/^.wrapper-footer {$/;"	c
+.wrapper-footer	assets/style.scss	/^.wrapper-footer {$/;"	c
+.wrapper-main	_site/assets/style.css	/^.wrapper-main {$/;"	c
+.wrapper-main	assets/style.scss	/^.wrapper-main {$/;"	c
+.wrapper-masthead	_site/assets/style.css	/^.wrapper-masthead {$/;"	c
+.wrapper-masthead	assets/style.scss	/^.wrapper-masthead {$/;"	c
+.x	_sass/_darcula.scss	/^.highlight .x { color: #f8f8f2 } \/* Other *\/$/;"	c
+.x	_sass/_highlights.scss	/^.highlight .x { color: #CB4B16 } \/* Other *\/$/;"	c
+.yellow	assets/style.scss	/^.yellow.lighten-2 {$/;"	c
+.yellow.lighten-2	_site/assets/style.css	/^.yellow.lighten-2 {$/;"	c
+.you-may-like	assets/style.scss	/^  .you-may-like{$/;"	c
+.youtube	_sass/_svg-icons.scss	/^  &.youtube 	    { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBl/;"	c
+0	_site/search.json	/^    {$/;"	o
+0	search.json	/^  {% for post in site.posts %}$/;"	o
+0001	_sass/_button.scss	/^   4px 4px 5px 0px #0001;$/;"	i
+0001	assets/button.scss	/^   4px 4px 5px 0px #0001;$/;"	i
+0002	_sass/_button.scss	/^   7px 7px 20px 0px #0002,$/;"	i
+0002	assets/button.scss	/^   7px 7px 20px 0px #0002,$/;"	i
+1	search.json	/^      "url"      : "{{ site.baseurl }}{{ post.url }}",$/;"	s
+1. Fork Reverie to your User Repository	README.md	/^### 1. Fork Reverie to your User Repository$/;"	S	section:Table of Contents""Using Reverie on GitHub Pages
+2	search.json	/^      "category" : "{{ post.categories | join: ', '}}",$/;"	s
+2. Customize and view your site	README.md	/^### 2. Customize and view your site$/;"	S	section:Table of Contents""Using Reverie on GitHub Pages
+3	search.json	/^      "date"     : "{{ post.date | date: "%B %e, %Y" }}"$/;"	s
+3. Publish your first blog post	README.md	/^### 3. Publish your first blog post$/;"	S	section:Table of Contents""Using Reverie on GitHub Pages
+4	search.json	/^      "date"     : "{{ post.date | date: "%B %e, %Y" }}"$/;"	z
+404 - Page not found	_site/404.html	/^  <h1>404 - Page not found<\/h1>$/;"	h
+5	search.json	/^    } {% unless forloop.last %},{% endunless %}$/;"	o
+::-moz-selection	_site/assets/style.css	/^::-moz-selection {$/;"	s
+::selection	_site/assets/style.css	/^::selection {$/;"	s
+About	_site/about/index.html	/^  <h1>About<\/h1>$/;"	h
+AnonymousFunction3ef5b8ac0100	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:n.onreadystatechange
+AnonymousFunction3ef5b8ac0200	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunction3ef5b8ac0300	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:matches
+AnonymousFunction3ef5b8ac0400	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunction3ef5b8ac0500	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunction3ef5b8ac0600	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunction3ef5b8ac0700	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunctionac89d4090100	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:n.onreadystatechange
+AnonymousFunctionac89d4090200	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunctionac89d4090300	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:matches
+AnonymousFunctionac89d4090400	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunctionac89d4090500	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunctionac89d4090600	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+AnonymousFunctionac89d4090700	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+Another great heading (h2)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^## Another great heading (h2)$/;"	s
+Another great heading (h2)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="another-great-heading-h2">Another great heading (h2)<\/h2>$/;"	i
+Augury	_site/404.html	/^              <h1 class="site-name"><a href="\/">Augury<\/a><\/h1>$/;"	h
+Augury	_site/about/index.html	/^              <h1 class="site-name"><a href="\/">Augury<\/a><\/h1>$/;"	h
+Augury	_site/categories/index.html	/^              <h1 class="site-name"><a href="\/">Augury<\/a><\/h1>$/;"	h
+Augury	_site/index.html	/^              <h1 class="site-name"><a href="\/">Augury<\/a><\/h1>$/;"	h
+Augury	_site/this-post-demonstrates-post-content-styles/index.html	/^              <h1 class="site-name"><a href="\/">Augury<\/a><\/h1>$/;"	h
+BibTeX	_pages/cite.md	/^## BibTeX$/;"	s	chapter:Citation
+But it's probably overkill (h4)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^#### But it's probably overkill (h4)$/;"	t	subsection:Another great heading (h2)""Some great subheading (h3)
+Categories	_site/categories/index.html	/^  <h1>Categories<\/h1>$/;"	h
+Citation	_pages/cite.md	/^# Citation$/;"	c
+Emailware	README.md	/^## Emailware$/;"	s	chapter:Table of Contents
+FAQ	_site/index.html	/^<h1 id="faq">FAQ<\/h1>$/;"	h
+FAQ	index.md	/^# FAQ$/;"	c
+Features	_site/about/index.html	/^<h2 id="features">Features<\/h2>$/;"	i
+Features overview	README.md	/^## Features overview$/;"	s	chapter:Table of Contents
+Headings are cool! (h2)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^## Headings are cool! (h2)$/;"	s
+Headings are cool! (h2)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="headings-are-cool-h2">Headings are cool! (h2)<\/h2>$/;"	i
+How bad is this?	_pages/faq_text.md	/^## How bad is this?$/;"	s
+How bad is this?	_site/index.html	/^<h2 id="how-bad-is-this">How bad is this?<\/h2>$/;"	i
+How did you find this?	_pages/faq_text.md	/^## How did you find this?$/;"	s
+How did you find this?	_site/index.html	/^<h2 id="how-did-you-find-this">How did you find this?<\/h2>$/;"	i
+Is Apple patching anything?	_pages/faq_text.md	/^## Is Apple patching anything?$/;"	s
+Is Apple patching anything?	_site/index.html	/^<h2 id="is-apple-patching-anything">Is Apple patching anything?<\/h2>$/;"	i
+License	README.md	/^## License$/;"	s	chapter:Table of Contents
+Miscellaneous	_site/categories/index.html	/^    <a name="Miscellaneous"><\/a>$/;"	a
+Miscellaneous	_site/categories/index.html	/^    <h3 class="category-head">Miscellaneous<\/h3>$/;"	j
+Oh hai, an ordered list!!	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^### Oh hai, an ordered list!!$/;"	S	section:Another great heading (h2)
+Oh hai, an ordered list!!	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!<\/h3>$/;"	j
+Oh hai, an unordered list!!	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^### Oh hai, an unordered list!!$/;"	S	section:Another great heading (h2)
+Oh hai, an unordered list!!	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!<\/h3>$/;"	j
+Pagination	README.md	/^## Pagination$/;"	s	chapter:Table of Contents
+Plain Text	_pages/cite.md	/^## Plain Text$/;"	s	chapter:Citation
+RSS	README.md	/^## RSS$/;"	s	chapter:Table of Contents
+SessionLoad	Session.vim	/^let SessionLoad = 1$/;"	v
+SessionLoad	_site/Session.vim	/^let SessionLoad = 1$/;"	v
+SimpleJekyllSearch	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:t
+SimpleJekyllSearch	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:t
+Sitemap	README.md	/^## Sitemap$/;"	s	chapter:Table of Contents
+Some great heading (h2)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^## Some great heading (h2)$/;"	s
+Some great heading (h2)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="some-great-heading-h2">Some great heading (h2)<\/h2>$/;"	i
+Some great subheading (h3)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^### Some great subheading (h3)$/;"	S	section:Another great heading (h2)
+Some great subheading (h3)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3">Some great subheading (h3)<\/h3>$/;"	j
+Some great subheading (h3)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3-1">Some great subheading (h3)<\/h3>$/;"	j
+Some great subheading (h3)	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3-2">Some great subheading (h3)<\/h3>$/;"	j
+Table of Contents	README.md	/^# Table of Contents$/;"	c
+Tables	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^### Tables$/;"	S	section:Headings are cool! (h2)
+Tables	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="tables">Tables<\/h3>$/;"	j
+The name?	README.md	/^## The name?$/;"	s	chapter:Table of Contents
+This post demonstrates post content styles	_site/this-post-demonstrates-post-content-styles/index.html	/^  <h1>This post demonstrates post content styles<\/h1>$/;"	h
+Using Categories in Reverie	README.md	/^## Using Categories in Reverie$/;"	s	chapter:Table of Contents
+Using Reverie on GitHub Pages	README.md	/^## Using Reverie on GitHub Pages$/;"	s	chapter:Table of Contents
+What DMP structure did you find?	_pages/faq_text.md	/^## What DMP structure did you find?$/;"	s
+What DMP structure did you find?	_site/index.html	/^<h2 id="what-dmp-structure-did-you-find">What DMP structure did you find?<\/h2>$/;"	i
+What exactly is a DMP?	_pages/faq_text.md	/^## What exactly is a DMP?$/;"	s
+What exactly is a DMP?	_site/index.html	/^<h2 id="what-exactly-is-a-dmp">What exactly is a DMP?<\/h2>$/;"	i
+What is a "data at rest" attack?	_pages/faq_text.md	/^## What is a "data at rest" attack?$/;"	s
+What makes Augury different from Spectre/MDS/etc?	_pages/faq_text.md	/^## What makes Augury different from Spectre\/MDS\/etc?$/;"	s
+What makes Augury different from Spectre/MDS/etc?	_site/index.html	/^<h2 id="what-makes-augury-different-from-spectremdsetc">What makes Augury different from Spectre/;"	i
+What processors are affected?	_pages/faq_text.md	/^## What processors are affected?$/;"	s
+What processors are affected?	_site/index.html	/^<h2 id="what-processors-are-affected">What processors are affected?<\/h2>$/;"	i
+Who found this?	_site/index.html	/^<h1 id="who-found-this">Who found this?<\/h1>$/;"	h
+Who found this?	index.md	/^# Who found this?$/;"	c
+Why "Augury"?	_pages/faq_text.md	/^## Why "Augury"?$/;"	s
+Why “Augury”?	_site/index.html	/^<h2 id="why-augury">Why “Augury”?<\/h2>$/;"	i
+You might want a sub-subheading (h4)	_posts/2019-7-27-this-post-demonstrates-post-content-styles.md	/^#### You might want a sub-subheading (h4)$/;"	t	subsection:Another great heading (h2)""Some great subheading (h3)
+a	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+a	_site/assets/style.css	/^a {$/;"	s
+a	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+a	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+a:active	_site/assets/style.css	/^a:hover, a:active {$/;"	s
+a:hover	_site/assets/style.css	/^a:hover, a:active {$/;"	s
+abbr	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+acronym	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+address	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+another-great-heading-h2	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="another-great-heading-h2">Another great heading (h2)<\/h2>$/;"	I
+applet	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+archives	_site/categories/index.html	/^    <div id="archives">$/;"	I
+article	_site/assets/style.css	/^article, aside, canvas, details, embed,$/;"	s
+article	_site/assets/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+aside	_site/assets/style.css	/^article, aside, canvas, details, embed,$/;"	s
+aside	_site/assets/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+audio	_site/assets/style.css	/^time, mark, audio, video {$/;"	s
+b	_site/assets/style.css	/^b, u, i, center,$/;"	s
+b	_site/assets/style.css	/^strong, b {$/;"	s
+bar	_layouts/default.html	/^    <div id="bar"><\/div>$/;"	I
+bar	_site/404.html	/^    <div id="bar"><\/div>$/;"	I
+bar	_site/about/index.html	/^    <div id="bar"><\/div>$/;"	I
+bar	_site/categories/index.html	/^    <div id="bar"><\/div>$/;"	I
+bar	_site/index.html	/^    <div id="bar"><\/div>$/;"	I
+bar	_site/this-post-demonstrates-post-content-styles/index.html	/^    <div id="bar"><\/div>$/;"	I
+bar	assets/style.scss	/^#bar {$/;"	i
+big	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+black	_sass/_variables.scss	/^$black: #000;$/;"	v
+blockquote	_site/assets/style.css	/^blockquote, q {$/;"	s
+blockquote	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+blockquote:after	_site/assets/style.css	/^blockquote:before, blockquote:after,$/;"	s
+blockquote:before	_site/assets/style.css	/^blockquote:before, blockquote:after,$/;"	s
+blue	_sass/_variables.scss	/^$blue: #4183C4;$/;"	v
+body	_site/assets/style.css	/^body {$/;"	s
+body	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+body:after	_site/assets/style.css	/^body:after {$/;"	s
+but-its-probably-overkill-h4	_site/this-post-demonstrates-post-content-styles/index.html	/^<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)<\/h4>$/;"	I
+c	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+c	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+canvas	_site/assets/style.css	/^article, aside, canvas, details, embed,$/;"	s
+caption	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+carbonads	assets/style.scss	/^  #carbonads > span {$/;"	i
+carbonads	assets/style.scss	/^  #carbonads span {$/;"	i
+carbonads	assets/style.scss	/^  #carbonads {$/;"	i
+carbonads	assets/style.scss	/^#carbonads a {$/;"	i
+carbonads	assets/style.scss	/^#carbonads a:hover {$/;"	i
+carbonads	assets/style.scss	/^#carbonads span {$/;"	i
+carbonads	assets/style.scss	/^#carbonads {$/;"	i
+category	_site/search.json	/^      "category" : "Miscellaneous",$/;"	s	object:0
+cd-timeline	assets/style.scss	/^  #cd-timeline {$/;"	i
+cd-timeline	assets/style.scss	/^#cd-timeline {$/;"	i
+cd-timeline::before	assets/style.scss	/^  #cd-timeline::before {$/;"	i
+cd-timeline::before	assets/style.scss	/^#cd-timeline::before {$/;"	i
+center	_site/assets/style.css	/^b, u, i, center,$/;"	s
+cite	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+code	_site/assets/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+code	_site/assets/style.css	/^code {$/;"	s
+d	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+d	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+darkGray	_sass/_variables.scss	/^$darkGray: #333;$/;"	v
+darkerGray	_sass/_variables.scss	/^$darkerGray: #222;$/;"	v
+date	_site/search.json	/^      "date"     : "July 27, 2019"$/;"	s	object:0
+dd	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+del	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+details	_site/assets/style.css	/^article, aside, canvas, details, embed,$/;"	s
+details	_site/assets/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+dfn	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+disqus_thread	_includes/disqus.html	/^	<div id="disqus_thread"><\/div>$/;"	I
+div	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+dl	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+dt	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+e	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+e	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:l
+e	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:l
+e	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+e	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:l
+e	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:l
+em	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+em	_site/assets/style.css	/^em, i {$/;"	s
+embed	_site/assets/style.css	/^article, aside, canvas, details, embed,$/;"	s
+exclude	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+exclude	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+f	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+f	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+faq	_site/index.html	/^<h1 id="faq">FAQ<\/h1>$/;"	I
+features	_site/about/index.html	/^<h2 id="features">Features<\/h2>$/;"	I
+fff9	_sass/_button.scss	/^   -4px -4px 5px 0px #fff9,$/;"	i
+fff9	_sass/_button.scss	/^   -7px -7px 20px 0px #fff9,$/;"	i
+fff9	assets/button.scss	/^   -4px -4px 5px 0px #fff9,$/;"	i
+fff9	assets/button.scss	/^   -7px -7px 20px 0px #fff9,$/;"	i
+fieldset	_site/assets/style.css	/^fieldset, form, label, legend,$/;"	s
+figcaption	_site/assets/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+figcaption	_site/assets/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+figure	_site/assets/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+figure	_site/assets/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+footer	_site/assets/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+footer	_site/assets/style.css	/^footer {$/;"	s
+footer	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+form	_site/assets/style.css	/^fieldset, form, label, legend,$/;"	s
+fuzzy	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+fuzzy	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+g	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+g	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+g:this_obsession	Session.vim	/^let g:this_obsession = v:this_session$/;"	v
+g:this_obsession	_site/Session.vim	/^let g:this_obsession = v:this_session$/;"	v
+g:this_session	Session.vim	/^let g:this_session = v:this_session$/;"	v
+g:this_session	_site/Session.vim	/^let g:this_session = v:this_session$/;"	v
+georgia	_sass/_variables.scss	/^$georgia: Georgia, serif;$/;"	v
+getRequiredOptions	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+getRequiredOptions	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:r
+getRequiredOptions	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+getRequiredOptions	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:r
+gh-latest	assets/style.scss	/^#gh-latest{$/;"	i
+gray	_sass/_variables.scss	/^$gray: #666;$/;"	v
+h	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+h	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+h1	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h1	_site/assets/style.css	/^h1 {$/;"	s
+h1	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h1	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h1 a	_site/assets/style.css	/^h1 a {$/;"	s
+h2	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h2	_site/assets/style.css	/^h2 {$/;"	s
+h3	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h3	_site/assets/style.css	/^h3 {$/;"	s
+h4	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h4	_site/assets/style.css	/^h4 {$/;"	s
+h5	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h6	_site/assets/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+header	_site/assets/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+header	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+headings-are-cool-h2	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="headings-are-cool-h2">Headings are cool! (h2)<\/h2>$/;"	I
+helvetica	_sass/_variables.scss	/^$helvetica: Helvetica, Arial, sans-serif;$/;"	v
+helveticaNeue	_sass/_variables.scss	/^$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;$/;"	v
+hgroup	_site/assets/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+hgroup	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+how-bad-is-this	_site/index.html	/^<h2 id="how-bad-is-this">How bad is this?<\/h2>$/;"	I
+how-did-you-find-this	_site/index.html	/^<h2 id="how-did-you-find-this">How did you find this?<\/h2>$/;"	I
+html	_site/assets/style.css	/^html {$/;"	s
+html	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+i	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+i	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:c
+i	_site/assets/style.css	/^b, u, i, center,$/;"	s
+i	_site/assets/style.css	/^em, i {$/;"	s
+i	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+i	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:c
+iframe	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+img	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+img	_site/assets/style.css	/^img {$/;"	s
+ins	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+is-apple-patching-anything	_site/index.html	/^<h2 id="is-apple-patching-anything">Is Apple patching anything?<\/h2>$/;"	I
+json	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+json	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+kbd	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+l	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+l	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+label	_site/assets/style.css	/^fieldset, form, label, legend,$/;"	s
+legend	_site/assets/style.css	/^fieldset, form, label, legend,$/;"	s
+li	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+lightGray	_sass/_variables.scss	/^$lightGray: #eee;$/;"	v
+limit	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+limit	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+m	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+m	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+main	_layouts/default.html	/^        <div id="main" role="main" class="container">$/;"	I
+main	_site/404.html	/^        <div id="main" role="main" class="container">$/;"	I
+main	_site/about/index.html	/^        <div id="main" role="main" class="container">$/;"	I
+main	_site/categories/index.html	/^        <div id="main" role="main" class="container">$/;"	I
+main	_site/index.html	/^        <div id="main" role="main" class="container">$/;"	I
+main	_site/this-post-demonstrates-post-content-styles/index.html	/^        <div id="main" role="main" class="container">$/;"	I
+mark	_site/assets/style.css	/^time, mark, audio, video {$/;"	s
+matches	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+matches	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+menu	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+menu	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+middleware	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:m
+middleware	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:m
+mobile	_sass/_variables.scss	/^@mixin mobile {$/;"	m
+n	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+n	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:f
+n	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:r
+n	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+n	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:v
+n	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+n	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:f
+n	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:r
+n	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+n	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:v
+nav	_site/assets/style.css	/^  nav {$/;"	s
+nav	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+nav	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+nav	_site/assets/style.css	/^nav {$/;"	s
+nav a	_site/assets/style.css	/^  nav a {$/;"	s
+nav a	_site/assets/style.css	/^nav a {$/;"	s
+noResultsText	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+noResultsText	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+o	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	c
+o	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+o	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	c
+o	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+object	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+oh-hai-an-ordered-list	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!<\/h3>$/;"	I
+oh-hai-an-unordered-list	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!<\/h3>$/;"	I
+ol	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+ol	_site/assets/style.css	/^ol {$/;"	s
+ol	_site/assets/style.css	/^ol, ul {$/;"	s
+ol	_site/assets/style.css	/^ul, ol {$/;"	s
+ol ol	_site/assets/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ol ul	_site/assets/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ol ul	_site/assets/style.css	/^ul ul, ol ul {$/;"	s
+onreadystatechange	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:n
+onreadystatechange	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:n
+output	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+p	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+p	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+p	_site/assets/style.css	/^p {$/;"	s
+p	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+p > img	_site/assets/style.css	/^p > img {$/;"	s
+pre	_site/assets/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+q	_site/assets/style.css	/^blockquote, q {$/;"	s
+q	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+q:after	_site/assets/style.css	/^q:before, q:after {$/;"	s
+q:before	_site/assets/style.css	/^q:before, q:after {$/;"	s
+r	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	c
+r	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:f
+r	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+r	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	c
+r	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f	function:f
+r	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+resultsContainer	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+resultsContainer	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+ruby	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+s	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+s	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+s	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+s:l	Session.vim	/^let s:l = 8 - ((7 * winheight(0) + 32) \/ 64)$/;"	v
+s:l	Session.vim	/^let s:l = 9 - ((8 * winheight(0) + 32) \/ 64)$/;"	v
+s:l	_site/Session.vim	/^let s:l = 8 - ((7 * winheight(0) + 32) \/ 64)$/;"	v
+s:l	_site/Session.vim	/^let s:l = 9 - ((8 * winheight(0) + 32) \/ 64)$/;"	v
+s:save_splitbelow	Session.vim	/^let s:save_splitbelow = &splitbelow$/;"	v
+s:save_splitbelow	_site/Session.vim	/^let s:save_splitbelow = &splitbelow$/;"	v
+s:save_splitright	Session.vim	/^let s:save_splitright = &splitright$/;"	v
+s:save_splitright	_site/Session.vim	/^let s:save_splitright = &splitright$/;"	v
+s:save_winminheight	Session.vim	/^let s:save_winminheight = &winminheight$/;"	v
+s:save_winminheight	_site/Session.vim	/^let s:save_winminheight = &winminheight$/;"	v
+s:save_winminwidth	Session.vim	/^let s:save_winminwidth = &winminwidth$/;"	v
+s:save_winminwidth	_site/Session.vim	/^let s:save_winminwidth = &winminwidth$/;"	v
+s:so_save	Session.vim	/^let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-1 siso=-1$/;"	v
+s:so_save	_site/Session.vim	/^let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-1 siso=-1$/;"	v
+s:sx	Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:sx	_site/Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+s:wipebuf	_site/Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+samp	_site/assets/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+search-container	assets/style.scss	/^#search-container {$/;"	i
+search-input	assets/style.scss	/^#search-input {$/;"	i
+searchInput	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+searchInput	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+searchResultTemplate	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+searchResultTemplate	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+section	_site/assets/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+section	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+small	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+some-great-heading-h2	_site/this-post-demonstrates-post-content-styles/index.html	/^<h2 id="some-great-heading-h2">Some great heading (h2)<\/h2>$/;"	I
+some-great-subheading-h3	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3">Some great subheading (h3)<\/h3>$/;"	I
+some-great-subheading-h3-1	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3-1">Some great subheading (h3)<\/h3>$/;"	I
+some-great-subheading-h3-2	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="some-great-subheading-h3-2">Some great subheading (h3)<\/h3>$/;"	I
+sortMiddleware	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:o
+sortMiddleware	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:o
+span	_site/assets/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+span[data-pullquote]	_site/assets/style.css	/^  span[data-pullquote] {$/;"	s
+span[data-pullquote]	_site/assets/style.css	/^span[data-pullquote] {$/;"	s
+span[data-pullquote] :before	_site/assets/style.css	/^span[data-pullquote]:before {$/;"	s
+strike	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+strong	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+strong	_site/assets/style.css	/^strong, b {$/;"	s
+sub	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+success	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+success	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+summary	_site/assets/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+sup	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+table	_site/assets/style.css	/^table {$/;"	s
+table	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+table tr	_site/assets/style.css	/^table tr {$/;"	s
+table tr td	_site/assets/style.css	/^table tr td {$/;"	s
+table tr td :first-child	_site/assets/style.css	/^table tr td :first-child {$/;"	s
+table tr td :last-child	_site/assets/style.css	/^table tr td :last-child {$/;"	s
+table tr th	_site/assets/style.css	/^table tr th {$/;"	s
+table tr th :first-child	_site/assets/style.css	/^table tr th :first-child,$/;"	s
+table tr th :last-child	_site/assets/style.css	/^table tr th :last-child,$/;"	s
+table tr:nth-child(2n)	_site/assets/style.css	/^table tr:nth-child(2n) {$/;"	s
+tables	_site/this-post-demonstrates-post-content-styles/index.html	/^<h3 id="tables">Tables<\/h3>$/;"	I
+tbody	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+td	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+templateMiddleware	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+templateMiddleware	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	p	class:o
+tfoot	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+th	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+thead	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+time	_site/assets/style.css	/^time, mark, audio, video {$/;"	s
+title	_site/search.json	/^      "title"    : "This post demonstrates post content styles",$/;"	s	object:0
+tr	_site/assets/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+tt	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+u	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+u	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+u	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:l
+u	_site/assets/style.css	/^b, u, i, center,$/;"	s
+u	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+u	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+u	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v	class:l
+ul	_site/assets/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+ul	_site/assets/style.css	/^ol, ul {$/;"	s
+ul	_site/assets/style.css	/^ul {$/;"	s
+ul	_site/assets/style.css	/^ul, ol {$/;"	s
+ul ol	_site/assets/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ul ul	_site/assets/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ul ul	_site/assets/style.css	/^ul ul, ol ul {$/;"	s
+url	_site/search.json	/^      "url"      : "\/this-post-demonstrates-post-content-styles\/",$/;"	s	object:0
+v	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+v	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	v
+validate	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+validate	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:r
+validate	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m
+validate	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	m	class:r
+var	_site/assets/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+video	_site/assets/style.css	/^time, mark, audio, video {$/;"	s
+what-dmp-structure-did-you-find	_site/index.html	/^<h2 id="what-dmp-structure-did-you-find">What DMP structure did you find?<\/h2>$/;"	I
+what-exactly-is-a-dmp	_site/index.html	/^<h2 id="what-exactly-is-a-dmp">What exactly is a DMP?<\/h2>$/;"	I
+what-makes-augury-different-from-spectremdsetc	_site/index.html	/^<h2 id="what-makes-augury-different-from-spectremdsetc">What makes Augury different from Spectre/;"	I
+what-processors-are-affected	_site/index.html	/^<h2 id="what-processors-are-affected">What processors are affected?<\/h2>$/;"	I
+white	_sass/_variables.scss	/^$white: #fff;$/;"	v
+who-found-this	_site/index.html	/^<h1 id="who-found-this">Who found this?<\/h1>$/;"	I
+why-augury	_site/index.html	/^<h2 id="why-augury">Why “Augury”?<\/h2>$/;"	I
+y	_site/assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+y	assets/simple-jekyll-search.min.js	/^!function(){"use strict";var f={load:function w(t,e){var n=function r(){return window.XMLHttpReq/;"	f
+you-might-want-a-sub-subheading-h4	_site/this-post-demonstrates-post-content-styles/index.html	/^<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)<\/h4>$/;"	I
+{{ page.title }}	_layouts/post.html	/^  <h1>{{ page.title }}<\/h1>$/;"	h
+{{ site.name }}	_layouts/default.html	/^              <h1 class="site-name"><a href="{{ site.baseurl }}\/">{{ site.name }}<\/a><\/h1>$/;"	h

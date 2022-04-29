@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Augury – Augury – Using Data Memory-Dependent Prefetchers to Leak Data at Rest</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Augury" />
+<meta name="author" content="Jose Rodrigo Sanchez Vicarte and Michael Flanders" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Using Data Memory-Dependent Prefetchers to Leak Data at Rest" />
+<meta property="og:description" content="Using Data Memory-Dependent Prefetchers to Leak Data at Rest" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Augury" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-05-02T00:00:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Augury" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Jose Rodrigo Sanchez Vicarte and Michael Flanders"},"dateModified":"2022-05-02T00:00:00-05:00","datePublished":"2022-05-02T00:00:00-05:00","description":"Using Data Memory-Dependent Prefetchers to Leak Data at Rest","headline":"Augury","name":"Augury","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+
+<meta property="og:description" content="Using Data Memory-Dependent Prefetchers to Leak Data at Rest" />
+
+<meta name="author" content="Augury" />
+
+
+<meta property="og:title" content="Augury" />
+<meta property="twitter:title" content="Augury" />
+
+
+
+<meta property="og:image" content="http://localhost:4000"/>
+<meta property="twitter:image" content="http://localhost:4000"/>
+
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Augury - Using Data Memory-Dependent Prefetchers to Leak Data at Rest" href="/feed.xml" />
+    <link rel="canonical" href="http://localhost:4000/" />
+
+    <meta name="theme-color" content="#000000">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    
+
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Augury</a></h1>
+              <p class="site-description">Using Data Memory-Dependent Prefetchers to Leak Data at Rest</p>
+            </div>
+
+            <nav>
+              <a href="/">Home</a>
+              <a href="/about">About Us</a>
+              <a href="/faq">FAQ</a>
+              <a href="/_pages/tools">Tools</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <div class="entry">
+    <p>We present a new type of microarchitectural attack that leaks data at
+rest: data that is never read into the core architecturally. This
+attack technique, Augury, leverages a novel microarchitectural
+optimzation present in Apple Silicon: a Data Memory-Dependent
+Prefetcher (DMP).</p>
+
+<p>At a high level:</p>
+<ul>
+  <li>We found that Apple processors have a DMP</li>
+  <li>We found that this DMP prefetches an array-of-pointers dereferencing pattern</li>
+  <li>We found that you can use this prefetcher to leak data (pointers)
+that are never read by any instruction, even speculatively!</li>
+</ul>
+
+<p>No logo, but please do use our fun name!</p>
+
+<center>
+<a href="/_pages/tools/"><button class="custom-btn btn-11">Tools</button></a>
+<a href="/augury.pdf"><button class="custom-btn btn-7">Paper</button></a>
+<a href="/about/#citation"><button class="custom-btn btn-11">Cite</button></a>
+</center>
+
+<h1 id="who-found-this">Who found this?</h1>
+
+<p>We had a big team across UIUC, UW, and Tel Aviv University.</p>
+
+<p>Co-first authors:</p>
+<ul>
+  <li>Jose Rodrigo Sanchez Vicarte (UIUC)</li>
+  <li>Michael Flanders (UW)<br /><br /></li>
+  <li>Riccardo Paccagnella (UIUC)</li>
+  <li>Grant Garrett-Grossman (UIUC)</li>
+  <li>Adam Morrison (Tel Aviv)</li>
+  <li>Christopher W. Fletcher (UIUC)</li>
+  <li>David Kohlbrenner (UW)</li>
+</ul>
+
+<h1 id="faq">FAQ</h1>
+
+<h2 id="what-processors-are-affected">What processors are affected?</h2>
+
+<p>Only Apple silicon processors are affected. We have confirmed the
+existence of the DMP on the A14, M1, and M1 Max. We believe some older A-series
+processors and the newest M1-family (M1 Pro, etc.) chips are also
+affected but have only confirmed this on the M1 Max.</p>
+
+<p>We have tested several recent families of Intel and AMD processors and
+seen no evidence they are affected.</p>
+
+<h2 id="how-bad-is-this">How bad is this?</h2>
+
+<p><em>Right now</em> not that bad! We have not demonstrated any end-to-end
+exploits with Augury techniques at this time. Currently, only pointers
+can be leaked, and likely only in the sandbox threat model.</p>
+
+<p>If you are counting on ASLR in a sandbox, I’d be worried. Otherwise,
+be worried when the next round of attacks using Augury come out :)</p>
+
+<h2 id="what-exactly-is-a-dmp">What exactly is a DMP?</h2>
+
+<p>A Data Memory-Dependent Prefetcher (DMP) is a prefetcher that takes
+into account the content of memory when deciding what to prefetch. A
+conceptually simple (if tricky to implement) DMP is one that watches
+the stream of cache lines returned from the memory system, and
+attempts a prefetch on any 64-bit chunk that appears to be a pointer.</p>
+
+<h2 id="what-dmp-structure-did-you-find">What DMP structure did you find?</h2>
+
+<p>In Apple Silicon we found an Array-of-Pointers (AoP) DMP. This
+prefetcher looks for access patterns of the following form:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span><span class="p">(</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="nb">len</span><span class="p">(</span><span class="n">arr</span><span class="p">);</span> <span class="n">i</span><span class="o">++</span> <span class="p">){</span>
+    <span class="o">*</span><span class="n">arr</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Once it has seen <code class="language-plaintext highlighter-rouge">*arr[0]</code> … <code class="language-plaintext highlighter-rouge">*arr[2]</code> occur (even speculatively!)
+it will begin prefetching <code class="language-plaintext highlighter-rouge">*arr[3]</code> onward.</p>
+
+<h2 id="what-makes-augury-different-from-spectremdsetc">What makes Augury different from Spectre/MDS/etc?</h2>
+
+<p>Augury techniques leverage <em>only</em> the DMP, not transient execution. In
+fact, speculative execution could be completely disabled and Augury
+would still work.</p>
+
+<p>A more subtle, but important point, is that the types of defenses that
+apply to Augury are not the same as other microarchitectural
+attacks. Any defense that relies on tracking what data is accessed by
+the core (speculatively or non-speculatively) cannot protect against
+Augury, as the leaked data is never read by the core!</p>
+
+<p>Some Spectre defenses (notably defenses like Site Isolation) also
+apply to Augury attacks since they have a similar effective
+reach. Other defenses like Speculative Load Hardening are not
+applicable and will not prevent Augury for leaking data.</p>
+
+<h2 id="what-is-a-data-at-rest-attack">What is a “data at rest” attack?</h2>
+
+<p>Data at rest microarchitectural leakage is a type of attack where the
+targeted data is never read into the core speculatively or
+non-speculatively, and yet is leaked. We described the likely
+existence of these attacks in
+<a href="https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf">Pandora</a>. but
+had not found any examples until now.</p>
+
+<p>These attacks are problematic because most defensive approaches in
+hardware or software for other microarchitectural attacks assume there
+is some instruction that accesses the secret. They can then either
+stop this access from occurring, or prevent the transmission of the
+secret. Data at rest attacks do not have this property, and must be
+mitigated differently.</p>
+
+<h2 id="how-did-you-find-this">How did you find this?</h2>
+
+<p>We had been looking for DMP implementations in the wild for some time,
+and previously discussed the dangers they present in
+<a href="https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf">Pandora</a>.</p>
+
+<p>We began looking at the M1 and A14 after reading this
+<a href="https://www.anandtech.com/show/16226/apple-silicon-m1-a14-deep-dive/3">Anandtech</a>
+article including the quote:</p>
+
+<blockquote>
+  <p>In our microarchitectural investigations we’ve seen signs of “memory
+magic” on Apple’s designs, where we might believe they’re using some
+sort of pointer-chase prefetching mechanism.”</p>
+</blockquote>
+
+<h2 id="why-augury">Why “Augury”?</h2>
+
+<blockquote>
+  <p>“the work of an augur; the interpretation of omens.”</p>
+</blockquote>
+
+<p>Augury is a neat word to say.</p>
+
+<p>More seriously, it well describes the process of leaking information
+using a DMP. We are, in fact, interpreting the ‘signs of the future’
+that the DMP has left in microarchitectural state for us. It turns out
+that those futures weren’t going to happen, but we still learn
+something from them!</p>
+
+<p>Plus, no one had taken it :)</p>
+
+<h2 id="is-apple-patching-anything">Is Apple patching anything?</h2>
+
+<p>As far as we know, no.
+We have discussed this issue with Apple and they are aware of all details.</p>
+
+
+  </div>
+
+  <div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text=Augury&url=http://localhost:4000/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=http://localhost:4000/" target="_blank">Facebook</a></p>
+  </div>
+
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+
+
+
+<a href="https://github.com/FPSG-UIUC/augury"><i class="svg-icon github"></i></a>
+
+
+
+
+
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>
