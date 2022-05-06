@@ -6,7 +6,7 @@
   author={Jose Rodrigo Sanchez Vicarte and Michael Flanders and
           Riccardo Paccagnella and Grant Garrett-Grossman and
           Adam Morrison and Christopher W. Fletcher and David Kohlbrenner },
-  booktitle={2022 IEEE Symposium on Security and Privacy (SP)},
+  booktitle={IEEE Symposium on Security and Privacy (SP)},
   year={2022},
   organization={IEEE Computer Society}
 }
