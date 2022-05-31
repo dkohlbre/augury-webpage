@@ -1,5 +1,7 @@
 ---
 layout: post
 title: Tooling
-subtitle: Coming Soon!
+permalink: /tools/
 ---
+
+{% include_relative tools_text.md %}
