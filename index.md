@@ -5,6 +5,18 @@ subtitle: Using Data Memory-Dependent Prefetchers to Leak Data at Rest
 date: May 2 2022
 ---
 
+# UPDATE (March 26 2024)
+
+Subsequent work has identified a different, and more expansive, set of
+criteria under which the Apple DMP activates. This new DMP model
+allows for significantly more concerning attacks.
+
+You can find new information about the Apple DMP at
+[gofetch](https://gofetch.fail/)
+
+# Old content below
+
+
 We present a new type of microarchitectural attack that leaks data at
 rest: data that is never read into the core architecturally. This
 attack technique, Augury, leverages a novel microarchitectural
